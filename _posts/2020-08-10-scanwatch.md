@@ -1,4 +1,9 @@
-# Withings ScanWatch - First Ramble
+---
+title: 'Withings ScanWatch - First Ramble'
+date: 2020-08-10 00:00:00
+featured_image: '/images/posts/scanwatch/watchface.jpg'
+excerpt: The ScanWatch is the upcoming flagship smartwatch/fitness-tracker by Withings, I take an early look.
+---
 
 At time of writing, the ScanWatch is the upcoming flagship smartwatch/fitness-tracker by Withings. It’s due to go on sale in early September for €279 - I’m on their insider programme so have it a little early.
 
