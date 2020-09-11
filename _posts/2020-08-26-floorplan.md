@@ -1,7 +1,7 @@
 ---
 title: 'Making a Floorplan (and uses)'
-date: 2020-08-06 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+date: 2020-08-07 00:00:00
+featured_image: '/images/posts/floorplan-3d.png'
 excerpt: There are handful of reasons to have a floorplan of where you live, it's helpful for working out where things can fit and/or go, and assist with general day-to-day.
 ---
 
