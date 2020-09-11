@@ -17,11 +17,11 @@ My professional career has spanned multiple job titles and industry sectors. Whi
 
 I am a great advocate of learning-through-doing, and the skills I list on my professional profile have for the most part been built through experience and experimentation rather than from slide decks or blogs; assessing what works best, adapting, and learning. It is important to me that an advisor knows the detail in what they are advising, and when information is a Google search away it is that depth and detail of practical knowledge which delivers results and adds value.
 
-![](/img/verge)
+![](/images/pages/about/verge.jpg)
 
 My passion for technology continues at home with personal projects featuring in popular technology blogs such as [The Verge](http://www.theverge.com/2012/5/1/2992041/nokia-lumia-800-wireless-charging-mod) and [Gizmodo](http://www.gizmodo.com.au/2012/05/hack-a-lumia-800-for-inductive-charging/). I am a keen hobbyist currently working on my own Connected Home. I am also a published photographer working with both film and digital, my most viewed photograph being a portrait of Sir Paul McCartney which has served as his Wikipedia [profile picture](https://en.wikipedia.org/wiki/Paul_McCartney#/media/File:Paul_McCartney_black_and_white_2010.jpg) for several years. 
 
-![](/img/mccartney)
+![](/images/pages/about/mccartney.jpg)
 
 # Professional
 
