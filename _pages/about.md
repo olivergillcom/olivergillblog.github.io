@@ -7,10 +7,6 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ![](/images/pages/about/cutout.png)
 
-<div class="gallery" data-columns="1">
-    <img src="/images/pages/about/cutout.png">
-</div>
-
 # Personal
 
 Since putting together my first computer aged four, I have been the technology enthusiast that friends, family and latterly clients have come to for help with what they have, and the technology evangelist they come to for advice on current and future technology.
