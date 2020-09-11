@@ -2,7 +2,7 @@
 
 At time of writing, the ScanWatch is the upcoming flagship smartwatch/fitness-tracker by Withings. It’s due to go on sale in early September for €279 - I’m on their insider programme so have it a little early.
 
-![Watchface](/images/posts/watchface.jpg)
+![Watchface](/images/posts/scanwatch/watchface.jpg)
 
 ***
 ## Hardware
@@ -16,10 +16,10 @@ I went for the smaller (38mm) one as it could have been a potential hand-over to
 
 Dimensionally, it fits my male-but-not-manly arms pretty well, though I think I could get the bigger (42mm) model without issue, and probably would if I were to purchase again.
 
-![Scanwatch Marketing](/images/posts/scanwatchvideo.png)
+![Scanwatch Marketing](/images/posts/scanwatch/scanwatchvideo.png)
 
 
-![Scanwatch Reality](/images/posts/watchprofile.jpg)
+![Scanwatch Reality](/images/posts/scanwatch/watchprofile.jpg)
 
 
 At time of writing they haven't updated their accessories store to show which additional/replacement wristbands are compatible (even though it was there for the earlybird purchase-flow). The default rubber strap feels much like what you’d find on a standard Fitbit - nice, not sticky/tacky but can see it being a bit gross if you get sweaty over the summer months. They have a large selection of alternatives so swapping it out won't be a problem once the store is connected up, which I suspect is just a symptom of this being pre-release - there’s a tan leather one with my name on it.
@@ -30,7 +30,7 @@ I’m already fairly deep in the Withings ecosystem (the key reason for going fo
 
 All functions work as well as you’d expect, only mild annoyance is my resting heart rate is around the lower limit of what the ECG tests (apparently) need, so I may have to walk around a bit before doing the test in future.
 
-![Withings](/images/posts/healthmate-screenshot.jpg)
+![Withings](/images/posts/scanwatch/healthmate.png)
 
 
 Other than that I have no underlying health issues (touch wood) so not really able to read into the data more than face value. All shows as green and within normal ranges = all good with me. 
