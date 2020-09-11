@@ -30,18 +30,9 @@ My passion for technology continues at home with personal projects featuring in 
 Oli is a Digital Consultant experienced in digital strategy, business development, and solution architecture. With a background in computer science and electronic engineering, he has a keen grasp on emerging technologies and trends. This, paired with a broad view over multiple industries, allows him to effectively devise and communicate new concepts, solutions and strategies with clients, and together develop a vision and execution path for their own digital future.
 
  
-
-## Senior Digital Consultant - Atos Consulting
-#### November 2016 - Present
-
-
-## Digital Strategy Consultant - Accenture
-#### April 2014 - April 2016
-
-
-## Technical Consultant - CSC
-#### September 2012 - April 2014  
-
-
-## Business Analyst - CSC
-#### July 2010 - September 2011
+| Position        | Company           | Timeline  |
+| ------------- |-------------|:-----:|
+| Senior Digital Consultant  | Atos Consulting | Nov'16 - Present |
+| Digital Strategy Consultant | Accenture Digital | Apr'14 - Apr'16 |
+| Technical Consultant | CSC (now DXC) | Sep'12 - Apr'14 |
+| Business Analyst | CSC (now DXC) | Jul'10 - Sep'11 |
