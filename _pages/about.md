@@ -1,6 +1,6 @@
 ---
 title: About Me
-subtitle: Geek, Gamer, Pathfinder but what does that mean
+subtitle: Geek, Gamer, Trailblazer ... what does that mean?
 description: A Personal Site.
 featured_image: /images/demo/demo-portrait.jpg
 ---
