@@ -1,6 +1,6 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Oliver Gill
+  site_tagline: GEEK | GAMER | TECHNOLOGY PATHFINDER 
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -33,7 +33,7 @@ social_settings:
   twitter_url: ''
   instagram_url: ''
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://www.youtube.com/user/olig89'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
@@ -54,7 +54,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: ''
+  linkedin_url: 'https://www.linkedin.com/in/olivergill/'
 
 color_settings:
   background_color: '#ffffff'
