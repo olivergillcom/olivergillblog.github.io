@@ -21,11 +21,10 @@ I went for the smaller (38mm) one as it could have been a potential hand-over to
 
 Dimensionally, it fits my male-but-not-manly arms pretty well, though I think I could get the bigger (42mm) model without issue, and probably would if I were to purchase again.
 
-![Scanwatch Marketing](/images/posts/scanwatch/scanwatchvideo.png)
-
-
-![Scanwatch Reality](/images/posts/scanwatch/watchprofile.jpg)
-
+<div class="gallery" data-columns="2">
+    <img src="/images/posts/scanwatch/scanwatchvideo.png">
+    <img src="/images/posts/scanwatch/watchprofile.jpg">
+</div>
 
 At time of writing they haven't updated their accessories store to show which additional/replacement wristbands are compatible (even though it was there for the earlybird purchase-flow). The default rubber strap feels much like what you’d find on a standard Fitbit - nice, not sticky/tacky but can see it being a bit gross if you get sweaty over the summer months. They have a large selection of alternatives so swapping it out won't be a problem once the store is connected up, which I suspect is just a symptom of this being pre-release - there’s a tan leather one with my name on it.
 
