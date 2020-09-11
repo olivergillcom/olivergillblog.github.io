@@ -1,6 +1,6 @@
 ---
 title: 'Panoramas'
-subtitle: 'This is a demo'
+subtitle: 'a broader perspective'
 date: 2018-06-30 00:00:00
 featured_image: '/images/demo/demo-square.jpg'
 ---
@@ -17,7 +17,7 @@ We've included everything you need to create engaging posts about your work, and
 
 ### Image galleries
 
-Here's a really neat custom feature we added – galleries:
+A few of my favourites:
 
 <div class="gallery" data-columns="3">
 	<img src="/images/demo/demo-portrait.jpg">
@@ -30,6 +30,10 @@ Here's a really neat custom feature we added – galleries:
 
 ## Pretty cool, huh?
 
-We've packed this theme with powerful features to show off your work. Why not put them to use on your new portfolio?
+Another cool technique, which _really_ doesn't translate well to modern social media is portrait panoramas. These will probably look awful on any device but could potentially be a cool addition to a wall. 
 
-<a href="https://jekyllthemes.io/theme/index-portfolio-jekyll-theme" class="button button--large">Get This Theme</a>
+<div class="gallery" data-columns="3">
+	<img src="/images/demo/demo-portrait.jpg">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-square.jpg">
+</div>
