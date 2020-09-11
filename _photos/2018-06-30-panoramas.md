@@ -18,10 +18,10 @@ We've included everything you need to create engaging posts about your work, and
 Interact with them to reveal their full widescreen beauty
 
 <div class="gallery" data-columns="3">
-	<img src="/images/photos/panoramas/demo-portrait.jpg">
-	<img src="/images/photos/panoramas/demo-landscape.jpg">
-	<img src="/images/photos/panoramas/demo-square.jpg">
-	<img src="/images/photos/panoramas/demo-landscape-2.jpg">
+	<img src="/images/photos/panoramas/LakeTekapo.jpg">
+	<img src="/images/photos/panoramas/Niagara.jpg">
+	<img src="/images/photos/panoramas/GoldenGateBridge.jpg">
+	<img src="/images/photos/panoramas/StArnaud.jpg">
 </div>
 
 ---
