@@ -15,7 +15,7 @@ collections:
     permalink: /project/:slug
   photos:
     output: true
-    permalink: /photo/:slug
+    permalink: /photos/:slug
     
 defaults:
   -
