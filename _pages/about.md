@@ -5,7 +5,7 @@ description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
-![](/images/pages/about/oli.jpg)
+![](/images/pages/about/cutout.png)
 
 # Personal
 
