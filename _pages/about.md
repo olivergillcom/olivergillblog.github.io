@@ -7,6 +7,10 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ![](/images/pages/about/cutout.png)
 
+<div class="gallery" data-columns="1">
+    <img src="/images/pages/about/cutout.png">
+</div>
+
 # Personal
 
 Since putting together my first computer aged four, I have been the technology enthusiast that friends, family and latterly clients have come to for help with what they have, and the technology evangelist they come to for advice on current and future technology.
@@ -32,18 +36,16 @@ Oli is a Digital Consultant experienced in digital strategy, business developmen
  
 
 ## Senior Digital Consultant - Atos Consulting
-### November 2016 - Present
 #### November 2016 - Present
-##### November 2016 - Present
-###### November 2016 - Present
+
 
 ## Digital Strategy Consultant - Accenture
-### April 2014 - April 2016
+#### April 2014 - April 2016
 
 
 ## Technical Consultant - CSC
-### September 2012 - April 2014  
+#### September 2012 - April 2014  
 
 
 ## Business Analyst - CSC
-### July 2010 - September 2011
+#### July 2010 - September 2011
