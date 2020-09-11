@@ -15,8 +15,7 @@ We've included everything you need to create engaging posts about your work, and
 ---
 
 ### A few of my favourites
-
-Black and White from the Zoo
+Interact with them to reveal their full widescreen beauty
 
 <div class="gallery" data-columns="3">
 	<img src="/images/photos/panoramas/demo-portrait.jpg">
