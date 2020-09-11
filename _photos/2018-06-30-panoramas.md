@@ -28,7 +28,7 @@ A few of my favourites:
 
 ---
 
-## Pretty cool, huh?
+### Why so sideways?
 
 Another cool technique, which _really_ doesn't translate well to modern social media is portrait panoramas. These will probably look awful on any device but could potentially be a cool addition to a wall. 
 
