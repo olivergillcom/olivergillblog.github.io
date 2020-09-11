@@ -13,7 +13,10 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
-
+  photos:
+    output: true
+    permalink: /photo/:slug
+    
 defaults:
   -
     scope:
@@ -38,7 +41,13 @@ defaults:
       type: "projects"
     values:
       layout: "project"
-
+  -
+    scope:
+      path: ""
+      type: "photos"
+    values:
+      layout: "project"
+      
 markdown: kramdown
 
 kramdown:
