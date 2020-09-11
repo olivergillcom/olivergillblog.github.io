@@ -7,6 +7,8 @@ featured_image: /images/demo/demo-portrait.jpg
 
 ![](/images/demo/demo-landscape.jpg)
 
+# Personal
+
 Since putting together my first computer aged four, I have been the technology enthusiast that friends, family and latterly clients have come to for help with what they have, and the technology evangelist they come to for advice on current and future technology.
 
 After studying modern languages in school I switched to digital languages with a Computing Science degree from Newcastle University. Whilst my interest in coding never grew further than as a hobby, learning about algorithms and development cycles had a resounding impact on my understanding and appreciation of the field – something that comes as a benefit whilst managing development teams.
