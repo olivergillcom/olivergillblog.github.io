@@ -1,7 +1,7 @@
 ---
 title: About
 subtitle: Geek, Gamer, Pathfinder but what does that mean
-description: A stunning personal blog Jekyll theme with an image-focused design.
+description: A Personal Site.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
