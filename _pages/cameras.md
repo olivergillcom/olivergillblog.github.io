@@ -1,6 +1,6 @@
 ---
 title: Cameras
-subtitle: Geek, Gamer, Trailblazer ... what does that mean?
+subtitle: My history in photography
 description: A Personal Site.
 featured_image: /images/pages/cameras/hassie.jpg
 ---
