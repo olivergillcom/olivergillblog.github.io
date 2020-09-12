@@ -12,11 +12,6 @@ featured_image: /images/demo/demo-portrait.jpg
   <link rel="stylesheet" href="/js/timeline/css/style.css">
 </head>
 <body>
-	<header class="cd-main-header text-center flex flex-column flex-center">
-    <h1>Responsive Vertical Timeline</h1>
-   
-  </header>
-
   <section class="cd-timeline js-cd-timeline">
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
