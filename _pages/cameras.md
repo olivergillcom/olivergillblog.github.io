@@ -1,11 +1,9 @@
 ---
-title: About Me
+title: Cameras
 subtitle: Geek, Gamer, Trailblazer ... what does that mean?
 description: A Personal Site.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/pages/cameras/hassie.jpg
 ---
-
-![](/images/pages/about/cutout.png)
 
 # Cameras
 
