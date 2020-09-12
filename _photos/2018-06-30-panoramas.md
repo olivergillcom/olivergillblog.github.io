@@ -2,7 +2,7 @@
 title: 'Panoramas'
 subtitle: 'a broader perspective'
 date: 2018-06-30 00:00:00
-featured_image: '/images/demo/demo-square.jpg'
+featured_image: '/images/photos/panoramas/StArnaud.jpg'
 ---
 
 ![](/images/photos/panoramas/demo-panorama.jpg)
