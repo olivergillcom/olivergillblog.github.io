@@ -2,13 +2,13 @@
 title: 'Panoramas'
 subtitle: 'a broader perspective'
 date: 2018-06-30 00:00:00
-featured_image: '/images/photos/panoramas/StArnaud.jpg'
+featured_image: '/images/photos/panoramas/cover.jpg'
 ---
 
 ![](/images/photos/panoramas/demo-panorama.jpg)
 
 
-Views are immersive so why cut them short? This page is a demo that shows everything you can do inside portfolio and blog posts.
+Views are immersive so why cut them short? These days you don't have to buy special equipment or software to make a nice panorama (Google Photos even auto-creates them for you), though that didn't stop me buying a panoramic film camera This page is a demo that shows everything you can do inside portfolio and blog posts.
 
 We've included everything you need to create engaging posts about your work, and show off your case studies in a beautiful way.
 
