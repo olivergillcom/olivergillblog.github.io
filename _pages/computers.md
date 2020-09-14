@@ -23,7 +23,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <h2>Current Rig</h2>
           <hr>
           <ul>
-          <li>test</li>
+          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>test</div></li>
           <li>test2</li>
           <li>test3</li>
           
