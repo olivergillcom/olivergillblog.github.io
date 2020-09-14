@@ -16,7 +16,7 @@ featured_image: /images/demo/demo-portrait.jpg
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white.svg" alt="Picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
