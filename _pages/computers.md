@@ -10,7 +10,10 @@ featured_image: /images/demo/demo-portrait.jpg
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>document.getElementsByTagName("html")[0].className += " js";</script>
   <link rel="stylesheet" href="/js/timeline/css/style.css">
-  <style>
+
+</head>
+<body>
+    <style>
   listIcon
     {
         display:inline-block;
@@ -18,8 +21,6 @@ featured_image: /images/demo/demo-portrait.jpg
         padding-right:20px;/*width of image*/
     }
   </style>
-</head>
-<body>
   <section class="cd-timeline js-cd-timeline">
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
@@ -31,7 +32,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <h2>Current Rig</h2>
           <hr>
           <ul>
-          <li><div><img src="/js/timeline/img/pc-case-black.svg" class="listIcon"></div><div>test</div></li>
+          <li><div class="listIcon"><img src="/js/timeline/img/pc-case-black.svg" class="lolol"></div><div>test</div></li>
           <li>test2</li>
           <li>test3</li>
           
