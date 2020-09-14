@@ -21,6 +21,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
         <div class="cd-timeline__content text-component">
           <h2>Current Rig</h2>
+          <hr>
           <ul>
           <li>test</li>
           <li>test2</li>
