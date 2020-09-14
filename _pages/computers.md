@@ -9,7 +9,7 @@ featured_image: /images/demo/demo-portrait.jpg
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>document.getElementsByTagName("html")[0].className += " js";</script>
-  <!-- <link rel="stylesheet" href="/js/timeline/css/style.css"> -->
+  <link rel="stylesheet" href="/js/timeline/css/style.css">
 </head>
 <body>
   <section class="cd-timeline js-cd-timeline">
