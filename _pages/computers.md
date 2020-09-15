@@ -13,14 +13,6 @@ featured_image: /images/demo/demo-portrait.jpg
 
 </head>
 <body>
-    <style>
-  listIcon
-    {
-        display:inline-block;
-        //width:200px;
-        padding-right:20px;/*width of image*/
-    }
-  </style>
   <section class="cd-timeline js-cd-timeline">
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
@@ -29,15 +21,29 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>Current Rig</h2>
+          <h2>OLI TOWER mkIVii (2018)</h2>
           <hr>
           <ul>
-          <li><div class="listIcon"><img src="/js/timeline/img/pc-case-black.svg" class="lolol"></div><div>test</div></li>
-          <li>test2</li>
-          <li>test3</li>
+          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>test</div></li>
           
+            <li>Intel Core i7-6700K @4.2GHz</li>
+
+            <li>Corsair H100i GTX CPU Cooler</li>
+
+            <li>Asus Z170I PRO GAMING Mini-ITX Motherboard</li>
+
+            <li>Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-2133 Memory</li>
+
+            <li>Samsung 950 PRO 512GB M.2 Solid State Drive</li>
+
+            <li>EVGA GeForce GTX GTX 1080 Ti FTW3 Hybrid</li>
+
+            <li>Thermaltake V21 Case</li>
+
+            <li>Corsair 750W 80+ Platinum ATX Power Supply</li>
+        
           </ul>
-          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
+          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
 
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">Current</span>
@@ -127,6 +133,3 @@ featured_image: /images/demo/demo-portrait.jpg
   </section> <!-- cd-timeline -->
   <script src="/js/timeline/js/main.js"></script>
 </body>
-
-
-
