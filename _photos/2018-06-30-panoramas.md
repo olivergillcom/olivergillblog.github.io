@@ -26,12 +26,26 @@ Interact with them to reveal their full widescreen beauty
 
 ---
 
+### Let's desaturate
+Panoramas on film already have a movie-aesthetic, so why not go the full distance and use black and white film
+
+<div class="gallery" data-columns="3">
+	<img src="/images/photos/panoramas/BW-Franz.jpg">
+	<img src="/images/photos/panoramas/BW-Flamingo.jpg">
+	<img src="/images/photos/panoramas/BW-Otter.jpg">
+	<img src="/images/photos/panoramas/BW-Tiger.jpg">
+	<img src="/images/photos/panoramas/BW-Crocodile.jpg">
+	<img src="/images/photos/panoramas/BW-Monkey.jpg">
+</div>
+
+---
+
 ### Why so sideways?
 
 Another cool technique, which _really_ doesn't translate well to modern social media is portrait panoramas. These will probably look awful on any device but could potentially be a cool addition to a wall. 
 
 <div class="gallery" data-columns="3">
-	<img src="/images/photos/panoramas/vert-demo-portrait.jpg">
-	<img src="/images/photos/panoramas/vert-demo-landscape.jpg">
-	<img src="/images/photos/panoramas/vert-demo-square.jpg">
+	<img src="/images/photos/panoramas/V-demo-portrait.jpg">
+	<img src="/images/photos/panoramas/V-demo-landscape.jpg">
+	<img src="/images/photos/panoramas/V-demo-square.jpg">
 </div>
