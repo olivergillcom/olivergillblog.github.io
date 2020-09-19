@@ -22,6 +22,8 @@ Interact with them to reveal their full widescreen beauty
 	<img src="/images/photos/panoramas/Niagara.jpg">
 	<img src="/images/photos/panoramas/GoldenGateBridge.jpg">
 	<img src="/images/photos/panoramas/StArnaud.jpg">
+	<img src="/images/photos/panoramas/Marrakesh.jpg">
+	<img src="/images/photos/panoramas/AbelTasmanTree.jpg">
 </div>
 
 ---
