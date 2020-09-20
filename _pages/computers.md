@@ -46,7 +46,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>GPU Update</h2>
+          <h2>GPU & Case Update</h2>
           <hr>
           <ul>
             <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
@@ -99,16 +99,118 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>EVGA GeForce GTX 960 2GB SSC ACX 2.0+</li>
             <li>Fractal Design Node 304 Mini-ITX Case</li>
             <li>Corsair VS 550W 80+ ATX Power Supply</li>
-
-
-
           </ul>
-          <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, I needed something capable enough for photo and video editing.</p>
+          <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, and selling my old machine - I needed something capable enough for photo and video editing. This pre-build from Scan fit the bill and the Micro-ATX case was a nice change from the previous E-ATX monster.</p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">February 2016</span>
+            <span class="cd-timeline__date">August 2015</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>GPU Update</h2>
+          <hr>
+          <ul>
+            <li>EVGA GeForce GTX 590 Classified Edition</li>
+          </ul>
+          <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>OLI TOWER mk2 (2010)</h2>
+          <hr>
+          <ul>
+            <li>Intel Core i7-980X @3.5GHz</li>
+            <li>Corsair H70 CPU Cooler</li>
+            <li>Asus Rampage III Extreme Motherboard</li>
+            <li>Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz Memory</li>
+            <li>OCZ Revodrive 240GB PCIe Solid State Drive</li>
+            <li>EVGA Geforce GTX 480 SC (x2 SLi)</li>
+            <li>Lian-Li PC-P80B Full Tower Case</li>
+            <li>Corsair 1000W Gold ATX Power Supply</li>
+          </ul>
+          <p class="color-contrast-medium">First job, first full-fat build - no expense spared.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">September 2010</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>OLI TOWER (2010)</h2>
+          <hr>
+          <ul>
+            <li>Intel Core2 Quad Q6600 @3.0GHz</li>
+            <li>Tuniq Tower 120 CPU Cooler</li>
+            <li>Asus P5N32-SLi SE Deluxe Motherboard</li>
+            <li>Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz Memory</li>
+            <li>Samsung Spinmaster 320GB SATA2</li>
+            <li>Asus EN8800GTX GeForce (x2 SLi)</li>
+            <li>Lian-Li PC-P80B Full Tower Case</li>
+            <li>OCZ 900W MOD XSTREAM Power Supply</li>
+          </ul>
+          <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC 2008</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>OLI VAIO (2005)</h2>
+          <hr>
+          <ul>
+            <H3>Sony VAIO a317M</H3>
+            <li>Intel Pentium M 740 Centrino @1.73Ghz</li>
+            <li>512MB RAM</li>
+            <li>ATI Radeon X600</li>
+          </ul>
+          <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC 2005</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>OLI DELL (2002)</h2>
+          <hr>
+          <ul>
+            <H3>Dell Dimension 8200</H3>
+            <li>Intel Pentium 4</li>
+            <li>512MB RAM</li>
+          </ul>
+          <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC 2002</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
 
 
 
