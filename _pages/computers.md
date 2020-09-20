@@ -21,35 +21,97 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
 
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mkIVii (2018)</h2>
+          <h2>OLI TOWER mk4b (2018)</h2>
           <hr>
           <ul>
-          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>testy</div></li>
-          
+          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>test</div></li>
             <li>Intel Core i7-6700K @4.2GHz</li>
-
             <li>Corsair H100i GTX CPU Cooler</li>
-
             <li>Asus Z170I PRO GAMING Mini-ITX Motherboard</li>
-
             <li>Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-2133 Memory</li>
-
             <li>Samsung 950 PRO 512GB M.2 Solid State Drive</li>
-
-            <li>EVGA GeForce GTX GTX 1080 Ti FTW3 Hybrid</li>
-
+            <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
             <li>Thermaltake V21 Case</li>
-
             <li>Corsair 750W 80+ Platinum ATX Power Supply</li>
-        
           </ul>
           <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
-
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">Current</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>GPU Update</h2>
+          <hr>
+          <ul>
+            <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
+            <li>Thermaltake V21 Case</li>
+          </ul>
+          <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming - luckily for me investing in this generation ended up being a great decision as Nvidia for the most part rested on their laurels. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">January 2018</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>OLI TOWER mk4a (2016)</h2>
+          <hr>
+          <ul>
+            <li>Intel Core i7-6700K @4.2GHz</li>
+            <li>Corsair H100i GTX CPU Cooler</li>
+            <li>Asus Z170I PRO GAMING Mini-ITX Motherboard</li>
+            <li>Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-2133 Memory</li>
+            <li>Samsung 950 PRO 512GB M.2 Solid State Drive</li>
+            <li>EVGA GeForce GTX 980 Ti FTW</li>
+            <li>Corsair 250D Case</li>
+            <li>Corsair 750W 80+ Platinum ATX Power Supply</li>
+          </ul>
+          <p class="color-contrast-medium">First build after gaming hiatus, continued with Mini-ITX, though with a little added girth in the case for AiO watercooling radiator.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">February 2016</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+      <div class="cd-timeline__block">
+        <div class="cd-timeline__img cd-timeline__img--picture">
+          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        </div> <!-- cd-timeline__img -->
+        <div class="cd-timeline__content text-component">
+          <h2>OLI TOWER mk3 (2015)</h2>
+          <hr>
+          <ul>
+            <li>Intel Core i5-4690 @3.7GHz</li>
+            <li>Arctic Freezer 11 LP CPU Cooler</li>
+            <li>Asus H81I-PLUS Mini-ITX Motherboard</li>
+            <li>Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600 Memory</li>
+            <li>Samsung 840 EVO 250GB Solid State Drive</li>
+            <li>EVGA GeForce GTX 960 2GB SSC ACX 2.0+</li>
+            <li>Fractal Design Node 304 Mini-ITX Case</li>
+            <li>Corsair VS 550W 80+ ATX Power Supply</li>
+
+
+
+          </ul>
+          <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, I needed something capable enough for photo and video editing.</p>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">February 2016</span>
+          </div>
+        </div> <!-- cd-timeline__content -->
+      </div> <!-- cd-timeline__block -->
+
+
+
 
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--movie">
