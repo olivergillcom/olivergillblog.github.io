@@ -24,6 +24,14 @@ Interact with them to reveal their full widescreen beauty
 	<img src="/images/photos/panoramas/StArnaud.jpg">
 	<img src="/images/photos/panoramas/Marrakesh.jpg">
 	<img src="/images/photos/panoramas/AbelTasmanTree.jpg">
+	<img src="/images/photos/panoramas/SplitApple.jpg">
+	<img src="/images/photos/panoramas/AbelTasman.jpg">
+	<img src="/images/photos/panoramas/MarrakeshTea.jpg">
+	<img src="/images/photos/panoramas/Omarama.jpg">
+	<img src="/images/photos/panoramas/Mendocino.jpg">
+	<img src="/images/photos/panoramas/LochmaraBay.jpg">
+	
+		
 </div>
 
 ---
