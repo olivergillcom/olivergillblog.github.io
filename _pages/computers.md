@@ -24,7 +24,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <h2>OLI TOWER mkIVii (2018)</h2>
           <hr>
           <ul>
-          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>test</div></li>
+          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>testy</div></li>
           
             <li>Intel Core i7-6700K @4.2GHz</li>
 
