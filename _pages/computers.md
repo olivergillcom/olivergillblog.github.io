@@ -13,7 +13,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 </head>
 <body>
-  <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
+  <section class="cd-timeline js-cd-timeline">
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--picture">
