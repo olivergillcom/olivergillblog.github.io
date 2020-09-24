@@ -1112,13 +1112,6 @@ small,
 	font-size: var(--text-xs, 0.694em)
 }
 
-a,
-.link {
-	color: hsl(220, 90%, 56%);
-	color: var(--color-primary, #2a6df4);
-	text-decoration: underline
-}
-
 strong,
 .text-bold {
 	font-weight: bold
@@ -1126,11 +1119,6 @@ strong,
 
 s {
 	text-decoration: line-through
-}
-
-u,
-.text-underline {
-	text-decoration: underline
 }
 
 .text-component {
