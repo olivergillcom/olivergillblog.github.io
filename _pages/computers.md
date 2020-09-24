@@ -20,23 +20,24 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
+
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk4b (2018)</h2>
+          <h3>OLI TOWER mk5 (2020)</h3>
           <hr>
           <ul>
           <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>testY</div></li>
-            <li>Intel Core i7-6700K @4.2GHz</li>
-            <li>Corsair H100i GTX CPU Cooler</li>
-            <li>Asus Z170I PRO GAMING Mini-ITX Motherboard</li>
-            <li>Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-2133 Memory</li>
-            <li>Samsung 950 PRO 512GB M.2 Solid State Drive</li>
-            <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
-            <li>Thermaltake V21 Case</li>
-            <li>Corsair 750W 80+ Platinum ATX Power Supply</li>
+            <li>CPU TBC</li>
+            <li>Cooler TBC</li>
+            <li>Motherboard TBC</li>
+            <li>Memory TBC</li>
+            <li>Storage TBC</li>
+            <li>EVGA GTX 3090 FTW3 Ultra</li>
+            <li>Gamemax Abyss Infinity</li>
+            <li>PSU TBC</li>
           </ul>
-          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+          <p class="color-contrast-medium">Something that will last at least three years and be capable of VR.</p>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Current</span>
+            <span class="cd-timeline__date">October 2020</span>
           </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -64,7 +65,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk4a (2016)</h2>
+          <h2>OLI TOWER mk4 (2016)</h2>
           <hr>
           <ul>
             <li>Intel Core i7-6700K @4.2GHz</li>
