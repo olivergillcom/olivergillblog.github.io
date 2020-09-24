@@ -24,7 +24,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <h2>OLI TOWER mk4b (2018)</h2>
           <hr>
           <ul>
-          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>test</div></li>
+          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>testY</div></li>
             <li>Intel Core i7-6700K @4.2GHz</li>
             <li>Corsair H100i GTX CPU Cooler</li>
             <li>Asus Z170I PRO GAMING Mini-ITX Motherboard</li>
