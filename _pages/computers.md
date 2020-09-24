@@ -22,10 +22,9 @@ featured_image: /images/demo/demo-portrait.jpg
 
 
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk5 (2020)</h2>
+          <h2>OLI TOWER mk5</h2>
           <hr>
           <ul>
-          <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>testY</div></li>
             <li>CPU TBC</li>
             <li>Cooler TBC</li>
             <li>Motherboard TBC</li>
@@ -35,7 +34,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>Gamemax Abyss Infinity</li>
             <li>PSU TBC</li>
           </ul>
-          <p class="color-contrast-medium">Something that will last at least three years and be capable of VR.</p>
+          <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">October 2020</span>
           </div>
@@ -51,7 +50,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <ul>
             <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
-            <li>Thermaltake V21 Case</li>
+            <li>Thermaltake V21</li>
           </ul>
           <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming - luckily for me investing in this generation ended up being a great decision as Nvidia for the most part rested on their laurels. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
           <div class="flex justify-between items-center">
@@ -65,7 +64,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk4 (2016)</h2>
+          <h2>OLI TOWER mk4</h2>
           <hr>
           <ul>
             <li>Intel Core i7-6700K</li>
@@ -89,7 +88,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk3 (2015)</h2>
+          <h2>OLI TOWER mk3</h2>
           <hr>
           <ul>
             <li>Intel Core i5-4690 @3.7GHz</li>
@@ -130,7 +129,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk2 (2010)</h2>
+          <h2>OLI TOWER mk2</h2>
           <hr>
           <ul>
             <li>Intel Core i7-980X @3.5GHz</li>
@@ -154,7 +153,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER (2010)</h2>
+          <h2>OLI TOWER</h2>
           <hr>
           <ul>
             <li>Intel Core2 Quad Q6600 @3.0GHz</li>
@@ -178,7 +177,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI VAIO (2005)</h2>
+          <h2>OLI VAIO</h2>
           <hr>
           <ul>
             <H3>Sony VAIO a317M</H3>
@@ -198,7 +197,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI DELL (2002)</h2>
+          <h2>OLI DELL</h2>
           <hr>
           <ul>
             <H3>Dell Dimension 8200</H3>
