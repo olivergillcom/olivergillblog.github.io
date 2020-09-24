@@ -107,6 +107,11 @@ body {
 	background-color: var(--color-bg, white)
 }
 
+single{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+
 article,
 aside,
 details,
