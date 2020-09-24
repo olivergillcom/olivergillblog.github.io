@@ -22,7 +22,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 
         <div class="cd-timeline__content text-component">
-          <h3>OLI TOWER mk5 (2020)</h3>
+          <h2>OLI TOWER mk5 (2020)</h2>
           <hr>
           <ul>
           <li><div><img src="/js/timeline/img/pc-case-black.svg"></div><div>testY</div></li>
@@ -68,14 +68,14 @@ featured_image: /images/demo/demo-portrait.jpg
           <h2>OLI TOWER mk4 (2016)</h2>
           <hr>
           <ul>
-            <li>Intel Core i7-6700K @4.2GHz</li>
-            <li>Corsair H100i GTX CPU Cooler</li>
-            <li>Asus Z170I PRO GAMING Mini-ITX Motherboard</li>
-            <li>Corsair Vengeance LPX 32GB (2 x 16GB) DDR4-2133 Memory</li>
-            <li>Samsung 950 PRO 512GB M.2 Solid State Drive</li>
+            <li>Intel Core i7-6700K</li>
+            <li>Corsair H100i GTX</li>
+            <li>Asus Z170I PRO GAMING Mini-ITX</li>
+            <li>Corsair Vengeance LPX 32GB DDR4-2133</li>
+            <li>Samsung 950 PRO 512GB M.2</li>
             <li>EVGA GeForce GTX 980 Ti FTW</li>
-            <li>Corsair 250D Case</li>
-            <li>Corsair 750W 80+ Platinum ATX Power Supply</li>
+            <li>Corsair 250D</li>
+            <li>Corsair 750W 80+ Platinum ATX</li>
           </ul>
           <p class="color-contrast-medium">First build after gaming hiatus, continued with Mini-ITX, though with a little added girth in the case for AiO watercooling radiator.</p>
           <div class="flex justify-between items-center">
