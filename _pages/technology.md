@@ -13,14 +13,24 @@ featured_image: /images/demo/demo-portrait.jpg
 
 </head>
 <body>
+
+  <div class="cd-timeline__img cd-timeline__img--green">
+    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+  </div>
+  <div class="cd-timeline__img cd-timeline__img--yellow">
+    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+  </div>
+  <div class="cd-timeline__img cd-timeline__img--red">
+    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+  </div>
+
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
-      <div class="cd-timeline__block">
+
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
-
-
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v5</h2>
           <div class="flex justify-between items-center">
@@ -41,7 +51,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -59,7 +69,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -73,7 +83,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <ul>
             <li class="cpu">Intel Core i7-6700K</li>
             <li class="cooler">Corsair H100i GTX</li>
-            <li class="motherboard">Asus Z170I PRO GAMING mITX</li>
+            <li class="motherboard">Asus Z170i PRO GAMING</li>
             <li class="memory">Corsair Vengeance LPX 32GB DDR4</li>
             <li class="storage">Samsung 950 PRO 512GB M.2</li>
             <li class="gpu">EVGA GTX 980 Ti FTW</li>
@@ -88,7 +98,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -102,7 +112,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <ul>
             <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
             <li class="cooler">Arctic Freezer 11 LP</li>
-            <li class="motherboard">Asus H81I-PLUS mITX</li>
+            <li class="motherboard">Asus H81i-PLUS</li>
             <li class="memory">Corsair Vengeance LP 16GB DDR4</li>
             <li class="storage">Samsung 840 EVO 250GB</li>
             <li class="gpu">EVGA GTX 960 2GB SSC ACX 2.0+</li>
@@ -115,7 +125,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -132,7 +142,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -159,7 +169,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -186,7 +196,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -209,7 +219,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block">
+      <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -233,6 +243,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
 
+
+<!-- PC FINISH -->
 
 
 
