@@ -216,7 +216,7 @@ featured_image: /images/demo/demo-portrait.jpg
         <div class="cd-timeline__content text-component">
           <h2>OLI DELL</h2>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC 2002</span>
+            <span class="cd-timeline__date">Summer 2002</span>
           </div>
           <hr>
           <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
@@ -224,7 +224,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <ul>
             <li class="cpu">Intel Pentium 4</li>
             <li class="memory">512MB RAM</li>
-            <li class="gpu">Various</li>
+            <li class="gpu">nVidia GeForce3 64MB</li>
           </ul>
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OD.jpg">
