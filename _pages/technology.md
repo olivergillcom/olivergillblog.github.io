@@ -14,20 +14,18 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
 
+  <div class="cd-timeline__img--green">
+    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+  </div>
+  <div class="cd-timeline__img--yellow">
+    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+  </div>
+  <div class="cd-timeline__img--red">
+    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+  </div>
 
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
-
-    <div class="cd-timeline__img cd-timeline__img--green">
-      <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-    </div>
-    <div class="cd-timeline__img cd-timeline__img--yellow">
-      <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-    </div>
-    <div class="cd-timeline__img cd-timeline__img--red">
-      <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-    </div>
-
     <div class="container max-width-lg cd-timeline__container">
 
       <div class="cd-timeline__block gaming-pc">
