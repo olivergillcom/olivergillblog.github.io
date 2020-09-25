@@ -3870,7 +3870,7 @@ mark {
 	}
 }
 
-.hi {
+.computer {
 	list-style:none;
 	padding-left: 1em;
   }
@@ -3880,9 +3880,93 @@ mark {
 	  display: inline-block;
 	  height: 1em;
 	  width: 1em;
-	  background-image: url(/js/timeline/img/pc-case-white-square.svg);
+	  background-image: url(/images/pages/tech/cpu.svg);
 	  background-size: contain;
 	  background-repeat: no-repeat;
 	  margin-right:0.5em;   
 	
+  }
+
+  .cooler:before {
+	content: '';
+	display: inline-block;
+	height: 1em;
+	width: 1em;
+	background-image: url(/images/pages/tech/cooler.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right:0.5em;   
+  
+}
+
+.motherboard:before {
+  content: '';
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-image: url(/images/pages/tech/motherboard.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:0.5em;   
+
+}
+
+.memory:before {
+  content: '';
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-image: url(/images/pages/tech/memory.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:0.5em;   
+
+}
+
+.storage:before {
+  content: '';
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-image: url(/images/pages/tech/storage.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:0.5em;   
+
+}
+
+.gpu:before {
+  content: '';
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-image: url(/images/pages/tech/gpu.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:0.5em;   
+
+}
+
+.case:before {
+  content: '';
+  display: inline-block;
+  height: 1em;
+  width: 1em;
+  background-image: url(/images/pages/tech/case.svg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  margin-right:0.5em;   
+
+}
+
+.psu:before {
+	content: '';
+	display: inline-block;
+	height: 1em;
+	width: 1em;
+	background-image: url(/images/pages/tech/psu.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+	margin-right:0.5em;   
+  
   }

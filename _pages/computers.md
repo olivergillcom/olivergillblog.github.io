@@ -28,7 +28,7 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
-          <ul>
+          <ul class="computer">
             <li class="cpu">CPU TBC</li>
             <li class="cooler">Cooler TBC</li>
             <li class="motherboard">Motherboard TBC</li>
