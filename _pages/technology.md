@@ -34,7 +34,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="motherboard">Motherboard TBC</li>
             <li class="memory">Memory TBC</li>
             <li class="storage">Storage TBC</li>
-            <li class="gpu">EVGA GTX 3090 FTW3 Ultra</li>
+            <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
             <li class="psu">PSU TBC</li>
           </ul>
