@@ -82,7 +82,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="storage">Samsung 950 PRO 512GB M.2</li>
             <li class="gpu">EVGA GeForce GTX 980 Ti FTW</li>
             <li class="case">Corsair 250D</li>
-            <li class="psu">Corsair 750W 80+ Platinum ATX</li>
+            <li class="psu">Corsair 750W 80+ Platinum</li>
           </ul>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -100,13 +100,13 @@ featured_image: /images/demo/demo-portrait.jpg
           <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, and selling my old machine - I needed something capable enough for photo and video editing. This pre-build from Scan fit the bill and the Micro-ATX case was a nice change from the previous E-ATX monster.</p>
           <ul>
             <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
-            <li class="cooler">Arctic Freezer 11 LP CPU Cooler</li>
-            <li class="motherboard">Asus H81I-PLUS Mini-ITX Motherboard</li>
-            <li class="memory">Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600 Memory</li>
-            <li class="storage">Samsung 840 EVO 250GB Solid State Drive</li>
+            <li class="cooler">Arctic Freezer 11 LP</li>
+            <li class="motherboard">Asus H81I-PLUS Mini-ITX</li>
+            <li class="memory">Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600</li>
+            <li class="storage">Samsung 840 EVO 250GB</li>
             <li class="gpu">EVGA GeForce GTX 960 2GB SSC ACX 2.0+</li>
-            <li class="case">Fractal Design Node 304 Mini-ITX Case</li>
-            <li class="psu">Corsair VS 550W 80+ ATX Power Supply</li>
+            <li class="case">Fractal Design Node 304</li>
+            <li class="psu">Corsair VS 550W 80+</li>
           </ul>
 
         </div> <!-- cd-timeline__content -->
@@ -143,13 +143,13 @@ featured_image: /images/demo/demo-portrait.jpg
           <p class="color-contrast-medium">First job, first full-fat build - no expense spared.</p>
           <ul>
             <li class="cpu">Intel Core i7-980X @3.5GHz</li>
-            <li class="cooler">Corsair H70 CPU Cooler</li>
-            <li class="motherboard">Asus Rampage III Extreme Motherboard</li>
-            <li class="memory">Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz Memory</li>
-            <li class="storage">OCZ Revodrive 240GB PCIe Solid State Drive</li>
+            <li class="cooler">Corsair H70</li>
+            <li class="motherboard">Asus Rampage III Extreme</li>
+            <li class="memory">Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz</li>
+            <li class="storage">OCZ Revodrive 240GB PCIe</li>
             <li class="gpu">EVGA Geforce GTX 480 SC (x2 SLi)</li>
-            <li class="case">Lian-Li PC-P80B Full Tower Case</li>
-            <li class="psu">Corsair 1000W Gold ATX Power Supply</li>
+            <li class="case">Lian-Li PC-P80B Full Tower</li>
+            <li class="psu">Corsair 1000W Gold</li>
           </ul>
 
         </div> <!-- cd-timeline__content -->
@@ -168,13 +168,13 @@ featured_image: /images/demo/demo-portrait.jpg
           <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
           <ul>
             <li class="cpu">Intel Core2 Quad Q6600 @3.0GHz</li>
-            <li class="cooler">Tuniq Tower 120 CPU Cooler</li>
-            <li class="motherboard">Asus P5N32-SLi SE Deluxe Motherboard</li>
-            <li class="memory">Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz Memory</li>
-            <li class="storage">Samsung Spinmaster 320GB SATA2</li>
-            <li class="gpu">Asus EN8800GTX GeForce (x2 SLi)</li>
-            <li class="case">Lian-Li PC-P80B Full Tower Case</li>
-            <li class="psu">OCZ 900W MOD XSTREAM Power Supply</li>
+            <li class="cooler">Tuniq Tower 120</li>
+            <li class="motherboard">Asus P5N32-SLi SE Deluxe</li>
+            <li class="memory">Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz</li>
+            <li class="storage">Samsung Spinmaster 320GB</li>
+            <li class="gpu">Asus EN8800GTX GeForce (x2 SLI)</li>
+            <li class="case">Lian-Li PC-P80B Full Tower</li>
+            <li class="psu">OCZ 900W MOD XSTREAM</li>
           </ul>
 
         </div> <!-- cd-timeline__content -->
@@ -216,6 +216,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <H3>Dell Dimension 8200</H3>
             <li class="cpu">Intel Pentium 4</li>
             <li class="memory">512MB RAM</li>
+            <li class="gpu">Various</li>
           </ul>
 
         </div> <!-- cd-timeline__content -->
