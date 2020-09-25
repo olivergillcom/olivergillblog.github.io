@@ -1,6 +1,6 @@
 ---
-title: Computer History
-subtitle: What I got, and when
+title: Tech Timeline
+subtitle: What I got, and when I got it
 description: A Personal Site.
 featured_image: /images/demo/demo-portrait.jpg
 ---
