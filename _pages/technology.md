@@ -73,7 +73,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <ul>
             <li class="cpu">Intel Core i7-6700K</li>
             <li class="cooler">Corsair H100i GTX</li>
-            <li class="motherboard">Asus Z170I PRO GAMING Mini-ITX</li>
+            <li class="motherboard">Asus Z170I PRO GAMING mITX</li>
             <li class="memory">Corsair Vengeance LPX 32GB DDR4</li>
             <li class="storage">Samsung 950 PRO 512GB M.2</li>
             <li class="gpu">EVGA GTX 980 Ti FTW</li>
@@ -102,7 +102,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <ul>
             <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
             <li class="cooler">Arctic Freezer 11 LP</li>
-            <li class="motherboard">Asus H81I-PLUS Mini-ITX</li>
+            <li class="motherboard">Asus H81I-PLUS mITX</li>
             <li class="memory">Corsair Vengeance LP 16GB DDR4</li>
             <li class="storage">Samsung 840 EVO 250GB</li>
             <li class="gpu">EVGA GTX 960 2GB SSC ACX 2.0+</li>
