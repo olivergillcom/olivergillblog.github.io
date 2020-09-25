@@ -48,15 +48,16 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>GPU & Case Update</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">January 2018</span>
+          </div>
           <hr>
           <ul>
             <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
             <li>Thermaltake V21</li>
           </ul>
           <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming - luckily for me investing in this generation ended up being a great decision as Nvidia for the most part rested on their laurels. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">January 2018</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -66,6 +67,9 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v4</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">February 2016</span>
+          </div>
           <hr>
           <ul>
             <li>Intel Core i7-6700K</li>
@@ -78,9 +82,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>Corsair 750W 80+ Platinum ATX</li>
           </ul>
           <p class="color-contrast-medium">First build after gaming hiatus, continued with Mini-ITX, though with a little added girth in the case for AiO watercooling radiator.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">February 2016</span>
-          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -90,6 +91,9 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v3</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">August 2015</span>
+          </div>
           <hr>
           <ul>
             <li>Intel Core i5-4690 @3.7GHz</li>
@@ -102,9 +106,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>Corsair VS 550W 80+ ATX Power Supply</li>
           </ul>
           <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, and selling my old machine - I needed something capable enough for photo and video editing. This pre-build from Scan fit the bill and the Micro-ATX case was a nice change from the previous E-ATX monster.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">August 2015</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -114,14 +116,15 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>GPU Update</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC</span>
+          </div>
           <hr>
           <ul>
             <li>EVGA GeForce GTX 590 Classified Edition</li>
           </ul>
           <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -131,6 +134,9 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v2</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">September 2010</span>
+          </div>
           <hr>
           <ul>
             <li>Intel Core i7-980X @3.5GHz</li>
@@ -143,9 +149,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>Corsair 1000W Gold ATX Power Supply</li>
           </ul>
           <p class="color-contrast-medium">First job, first full-fat build - no expense spared.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">September 2010</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -155,6 +159,9 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC 2008</span>
+          </div>
           <hr>
           <ul>
             <li>Intel Core2 Quad Q6600 @3.0GHz</li>
@@ -167,9 +174,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>OCZ 900W MOD XSTREAM Power Supply</li>
           </ul>
           <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC 2008</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -179,6 +184,9 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI VAIO</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC 2005</span>
+          </div>
           <hr>
           <ul>
             <H3>Sony VAIO a317M</H3>
@@ -187,9 +195,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>ATI Radeon X600</li>
           </ul>
           <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC 2005</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -199,6 +205,9 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI DELL</h2>
+          <div class="flex justify-between items-center">
+            <span class="cd-timeline__date">TBC 2002</span>
+          </div>
           <hr>
           <ul>
             <H3>Dell Dimension 8200</H3>
@@ -206,9 +215,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li>512MB RAM</li>
           </ul>
           <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC 2002</span>
-          </div>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
