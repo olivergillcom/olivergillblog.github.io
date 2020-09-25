@@ -1160,10 +1160,11 @@ s {
 	margin-bottom: calc(var(--space-sm)*var(--text-vspace-multiplier, 1))
 }
 
+/*
 .text-component ul,
 .text-component ol {
 	padding-left: 1em
-}
+}*/
 
 .text-component ul {
 	list-style-type: none
