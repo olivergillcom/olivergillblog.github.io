@@ -22,7 +22,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk5</h2>
+          <h2>OLI TOWER v5</h2>
           <hr>
           <ul>
             <li>CPU TBC</li>
@@ -64,7 +64,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk4</h2>
+          <h2>OLI TOWER v4</h2>
           <hr>
           <ul>
             <li>Intel Core i7-6700K</li>
@@ -88,7 +88,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk3</h2>
+          <h2>OLI TOWER v3</h2>
           <hr>
           <ul>
             <li>Intel Core i5-4690 @3.7GHz</li>
@@ -129,7 +129,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER mk2</h2>
+          <h2>OLI TOWER v2</h2>
           <hr>
           <ul>
             <li>Intel Core i7-980X @3.5GHz</li>
