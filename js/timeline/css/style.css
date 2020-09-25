@@ -3658,17 +3658,17 @@ mark {
 	}
 }
 
-.cd-timeline__img--picture {
+.cd-timeline__img--green {
 	background-color: hsl(111, 51%, 60%);
 	background-color: var(--cd-color-4)
 }
 
-.cd-timeline__img--movie {
+.cd-timeline__img--red {
 	background-color: hsl(356, 53%, 49%);
 	background-color: var(--cd-color-5)
 }
 
-.cd-timeline__img--location {
+.cd-timeline__img--yellow {
 	background-color: hsl(47, 85%, 61%);
 	background-color: var(--cd-color-6)
 }
