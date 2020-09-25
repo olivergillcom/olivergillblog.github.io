@@ -27,6 +27,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">October 2020</span>
           </div>
           <hr>
+          <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
           <ul>
             <li class="cpu">CPU TBC</li>
             <li class="cooler">Cooler TBC</li>
@@ -37,8 +38,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="case">Gamemax Abyss Infinity</li>
             <li class="psu">PSU TBC</li>
           </ul>
-          <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
-
+          <div class="gallery" data-columns="3">
+            <img src="/images/photos/panoramas/LakeTekapo.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
