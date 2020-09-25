@@ -17,10 +17,10 @@ featured_image: /images/demo/demo-portrait.jpg
   <div class="filter__img filter__img--green">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
-  <div class="filter__img filter__img--yellow">
+  <div class="filter__img filter__img--blue">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
-  <div class="filter__img filter__img--red">
+  <div class="filter__img filter__img--purple">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
 
@@ -246,7 +246,48 @@ featured_image: /images/demo/demo-portrait.jpg
 
 
 <!-- PC FINISH -->
+<!--
+GameBoy Colour & Advance
+Nintendo 64
+Playstation 2
+Playstation 3
+Xbox One + Kinect
+Xbox One X
+-->
+<!--
+Asus Transformer TF101
+Samsung Series 7 Slate
+Microsoft Surface RT
+Google Nexus 7
+Microsoft Surface Pro 2
+Microsoft Surface Pro 3
+HP Stream 7
+Samsung Galaxy Tab S3
+-->
 
+<!--
+Nokia 3310
+Sony Ericsson T68i
+Sony Ericsson T610
+Sony Ericsson W850
+Sony Ericsson Z800
+(Nokia 6210)
+Sony Ericsson P1
+(Nokia 6310)
+HTC HD2
+(Nokia 6310)
+Samsung Omnia 7
+Nokia Lumia 800
+Nokia Lumia 920
+Nokia Lumia 1020
+Google Nexus 5
+One Plus One
+Samsung Galaxy S6 Edge 
+Samsung Galaxy S7 Edge 
+Google Pixel 2 XL
+One Plus 6T
+Google Pixel 4 XL
+-->
 
 
       <div class="cd-timeline__block">

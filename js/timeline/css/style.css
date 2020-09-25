@@ -4026,3 +4026,13 @@ mark {
 	background-color: hsl(47, 85%, 61%);
 	background-color: var(--cd-color-6)
 }
+
+.filter__img--blue {
+	background-color: hsl(212, 98%, 39%);
+	background-color: var(--cd-color-6)
+}
+
+.filter__img--purple {
+	background-color: hsl(261, 80%, 54%);
+	background-color: var(--cd-color-6)
+}
