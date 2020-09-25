@@ -16,8 +16,8 @@ featured_image: /images/demo/demo-portrait.jpg
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
 
@@ -42,8 +42,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--yellow">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>GPU & Case Update</h2>
@@ -60,8 +60,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v4</h2>
@@ -89,8 +89,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v3</h2>
@@ -116,13 +116,13 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--yellow">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>GPU Update</h2>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC</span>
+            <span class="cd-timeline__date">Summer 2013</span>
           </div>
           <hr>
           <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
@@ -133,8 +133,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v2</h2>
@@ -160,8 +160,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER</h2>
@@ -187,8 +187,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI VAIO</h2>
@@ -210,8 +210,8 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
-          <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
+          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI DELL</h2>
@@ -237,7 +237,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--movie">
+        <div class="cd-timeline__img cd-timeline__img--red">
           <img src="/js/timeline/img/cd-icon-movie.svg" alt="Movie">
         </div> <!-- cd-timeline__img -->
 
@@ -253,7 +253,7 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
+        <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/js/timeline/img/cd-icon-picture.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
 
@@ -269,7 +269,7 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
+        <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/js/timeline/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
 
@@ -285,7 +285,7 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--location">
+        <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/js/timeline/img/cd-icon-location.svg" alt="Location">
         </div> <!-- cd-timeline__img -->
 
@@ -301,7 +301,7 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--movie">
+        <div class="cd-timeline__img cd-timeline__img--red">
           <img src="/js/timeline/img/cd-icon-movie.svg" alt="Movie">
         </div> <!-- cd-timeline__img -->
 
