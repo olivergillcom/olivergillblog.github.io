@@ -1,5 +1,5 @@
 ---
-title: Tech Timeline
+title: Technology Timeline
 subtitle: What I got, and when I got it
 description: A Personal Site.
 featured_image: /images/demo/demo-portrait.jpg
@@ -45,7 +45,7 @@ featured_image: /images/demo/demo-portrait.jpg
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
+        <div class="cd-timeline__img cd-timeline__img--location">
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
@@ -54,11 +54,11 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">January 2018</span>
           </div>
           <hr>
-          <ul>
-            <li>EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
-            <li>Thermaltake V21</li>
-          </ul>
           <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming - luckily for me investing in this generation ended up being a great decision as Nvidia for the most part rested on their laurels. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
+          <ul>
+            <li class="gpu">EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
+            <li class="case">Thermaltake V21</li>
+          </ul>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -73,17 +73,17 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">February 2016</span>
           </div>
           <hr>
-          <ul>
-            <li>Intel Core i7-6700K</li>
-            <li>Corsair H100i GTX</li>
-            <li>Asus Z170I PRO GAMING Mini-ITX</li>
-            <li>Corsair Vengeance LPX 32GB DDR4-2133</li>
-            <li>Samsung 950 PRO 512GB M.2</li>
-            <li>EVGA GeForce GTX 980 Ti FTW</li>
-            <li>Corsair 250D</li>
-            <li>Corsair 750W 80+ Platinum ATX</li>
-          </ul>
           <p class="color-contrast-medium">First build after gaming hiatus, continued with Mini-ITX, though with a little added girth in the case for AiO watercooling radiator.</p>
+          <ul>
+            <li class="cpu">Intel Core i7-6700K</li>
+            <li class="cooler">Corsair H100i GTX</li>
+            <li class="motherboard">Asus Z170I PRO GAMING Mini-ITX</li>
+            <li class="memory">Corsair Vengeance LPX 32GB DDR4-2133</li>
+            <li class="storage">Samsung 950 PRO 512GB M.2</li>
+            <li class="gpu">EVGA GeForce GTX 980 Ti FTW</li>
+            <li class="case">Corsair 250D</li>
+            <li class="psu">Corsair 750W 80+ Platinum ATX</li>
+          </ul>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -97,23 +97,23 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">August 2015</span>
           </div>
           <hr>
-          <ul>
-            <li>Intel Core i5-4690 @3.7GHz</li>
-            <li>Arctic Freezer 11 LP CPU Cooler</li>
-            <li>Asus H81I-PLUS Mini-ITX Motherboard</li>
-            <li>Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600 Memory</li>
-            <li>Samsung 840 EVO 250GB Solid State Drive</li>
-            <li>EVGA GeForce GTX 960 2GB SSC ACX 2.0+</li>
-            <li>Fractal Design Node 304 Mini-ITX Case</li>
-            <li>Corsair VS 550W 80+ ATX Power Supply</li>
-          </ul>
           <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, and selling my old machine - I needed something capable enough for photo and video editing. This pre-build from Scan fit the bill and the Micro-ATX case was a nice change from the previous E-ATX monster.</p>
+          <ul>
+            <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
+            <li class="cooler">Arctic Freezer 11 LP CPU Cooler</li>
+            <li class="motherboard">Asus H81I-PLUS Mini-ITX Motherboard</li>
+            <li class="memory">Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600 Memory</li>
+            <li class="storage">Samsung 840 EVO 250GB Solid State Drive</li>
+            <li class="gpu">EVGA GeForce GTX 960 2GB SSC ACX 2.0+</li>
+            <li class="case">Fractal Design Node 304 Mini-ITX Case</li>
+            <li class="psu">Corsair VS 550W 80+ ATX Power Supply</li>
+          </ul>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
       <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--picture">
+        <div class="cd-timeline__img cd-timeline__img--location">
           <img src="/js/timeline/img/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
@@ -122,10 +122,10 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">TBC</span>
           </div>
           <hr>
-          <ul>
-            <li>EVGA GeForce GTX 590 Classified Edition</li>
-          </ul>
           <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
+          <ul>
+            <li class="gpu">EVGA GeForce GTX 590 Classified Edition</li>
+          </ul>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -140,17 +140,17 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">September 2010</span>
           </div>
           <hr>
-          <ul>
-            <li>Intel Core i7-980X @3.5GHz</li>
-            <li>Corsair H70 CPU Cooler</li>
-            <li>Asus Rampage III Extreme Motherboard</li>
-            <li>Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz Memory</li>
-            <li>OCZ Revodrive 240GB PCIe Solid State Drive</li>
-            <li>EVGA Geforce GTX 480 SC (x2 SLi)</li>
-            <li>Lian-Li PC-P80B Full Tower Case</li>
-            <li>Corsair 1000W Gold ATX Power Supply</li>
-          </ul>
           <p class="color-contrast-medium">First job, first full-fat build - no expense spared.</p>
+          <ul>
+            <li class="cpu">Intel Core i7-980X @3.5GHz</li>
+            <li class="cooler">Corsair H70 CPU Cooler</li>
+            <li class="motherboard">Asus Rampage III Extreme Motherboard</li>
+            <li class="memory">Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz Memory</li>
+            <li class="storage">OCZ Revodrive 240GB PCIe Solid State Drive</li>
+            <li class="gpu">EVGA Geforce GTX 480 SC (x2 SLi)</li>
+            <li class="case">Lian-Li PC-P80B Full Tower Case</li>
+            <li class="psu">Corsair 1000W Gold ATX Power Supply</li>
+          </ul>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -165,17 +165,17 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">TBC 2008</span>
           </div>
           <hr>
-          <ul>
-            <li>Intel Core2 Quad Q6600 @3.0GHz</li>
-            <li>Tuniq Tower 120 CPU Cooler</li>
-            <li>Asus P5N32-SLi SE Deluxe Motherboard</li>
-            <li>Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz Memory</li>
-            <li>Samsung Spinmaster 320GB SATA2</li>
-            <li>Asus EN8800GTX GeForce (x2 SLi)</li>
-            <li>Lian-Li PC-P80B Full Tower Case</li>
-            <li>OCZ 900W MOD XSTREAM Power Supply</li>
-          </ul>
           <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
+          <ul>
+            <li class="cpu">Intel Core2 Quad Q6600 @3.0GHz</li>
+            <li class="cooler">Tuniq Tower 120 CPU Cooler</li>
+            <li class="motherboard">Asus P5N32-SLi SE Deluxe Motherboard</li>
+            <li class="memory">Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz Memory</li>
+            <li class="storage">Samsung Spinmaster 320GB SATA2</li>
+            <li class="gpu">Asus EN8800GTX GeForce (x2 SLi)</li>
+            <li class="case">Lian-Li PC-P80B Full Tower Case</li>
+            <li class="psu">OCZ 900W MOD XSTREAM Power Supply</li>
+          </ul>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -190,13 +190,13 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">TBC 2005</span>
           </div>
           <hr>
+          <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
           <ul>
             <H3>Sony VAIO a317M</H3>
-            <li>Intel Pentium M 740 Centrino @1.73Ghz</li>
-            <li>512MB RAM</li>
-            <li>ATI Radeon X600</li>
+            <li class="cpu">Intel Pentium M 740 Centrino @1.73Ghz</li>
+            <li class="memory">512MB RAM</li>
+            <li class="gpu">ATI Radeon X600</li>
           </ul>
-          <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
@@ -211,12 +211,12 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">TBC 2002</span>
           </div>
           <hr>
+          <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
           <ul>
             <H3>Dell Dimension 8200</H3>
-            <li>Intel Pentium 4</li>
-            <li>512MB RAM</li>
+            <li class="cpu">Intel Pentium 4</li>
+            <li class="memory">512MB RAM</li>
           </ul>
-          <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
