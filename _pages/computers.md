@@ -23,21 +23,22 @@ featured_image: /images/demo/demo-portrait.jpg
 
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v5</h2>
-          <hr>
-          <ul>
-            <li>CPU TBC</li>
-            <li>Cooler TBC</li>
-            <li>Motherboard TBC</li>
-            <li>Memory TBC</li>
-            <li>Storage TBC</li>
-            <li>EVGA GTX 3090 FTW3 Ultra</li>
-            <li>Gamemax Abyss Infinity</li>
-            <li>PSU TBC</li>
-          </ul>
-          <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">October 2020</span>
           </div>
+          <hr>
+          <ul>
+            <li class="cpu">CPU TBC</li>
+            <li class="cooler">Cooler TBC</li>
+            <li class="motherboard">Motherboard TBC</li>
+            <li class="memory">Memory TBC</li>
+            <li class="storage">Storage TBC</li>
+            <li class="gpu">EVGA GTX 3090 FTW3 Ultra</li>
+            <li class="case">Gamemax Abyss Infinity</li>
+            <li class="psu">PSU TBC</li>
+          </ul>
+          <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
+
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
