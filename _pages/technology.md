@@ -122,7 +122,7 @@ featured_image: /images/demo/demo-portrait.jpg
         <div class="cd-timeline__content text-component">
           <h2>GPU Update</h2>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Summer 2013</span>
+            <span class="cd-timeline__date">July 2011</span>
           </div>
           <hr>
           <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
