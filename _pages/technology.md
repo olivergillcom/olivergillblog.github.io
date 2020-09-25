@@ -38,9 +38,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="case">Gamemax Abyss Infinity</li>
             <li class="psu">PSU TBC</li>
           </ul>
-          <div class="gallery" data-columns="3">
-            <img src="/images/photos/panoramas/LakeTekapo.jpg">
-          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -59,7 +56,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="gpu">EVGA GTX 1080 Ti FTW3 Hybrid</li>
             <li class="case">Thermaltake V21</li>
           </ul>
-
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -84,6 +80,11 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="case">Corsair 250D</li>
             <li class="psu">Corsair 750W 80+ Platinum</li>
           </ul>
+          <div class="gallery" data-columns="3">
+            <img src="/images/pages/tech/OT4boxes.jpg">
+            <img src="/images/pages/tech/OT4table.jpg">
+            <img src="/images/pages/tech/OT4inside.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -108,7 +109,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="case">Fractal Design Node 304</li>
             <li class="psu">Corsair VS 550W 80+</li>
           </ul>
-
+          <div class="gallery" data-columns="1">
+            <img src="/images/pages/tech/OT3.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -126,7 +129,6 @@ featured_image: /images/demo/demo-portrait.jpg
           <ul>
             <li class="gpu">EVGA GTX 590 Classified Edition</li>
           </ul>
-
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -151,7 +153,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">Corsair 1000W Gold</li>
           </ul>
-
+          <div class="gallery" data-columns="1">
+            <img src="/images/pages/tech/OT2.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -176,7 +180,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">OCZ 900W MOD XSTREAM</li>
           </ul>
-
+          <div class="gallery" data-columns="1">
+            <img src="/images/pages/tech/OT1.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -197,7 +203,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="memory">512MB RAM</li>
             <li class="gpu">ATI Radeon X600</li>
           </ul>
-
+          <div class="gallery" data-columns="1">
+            <img src="/images/pages/tech/OV.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -218,7 +226,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="memory">512MB RAM</li>
             <li class="gpu">Various</li>
           </ul>
-
+          <div class="gallery" data-columns="1">
+            <img src="/images/pages/tech/OD.jpg">
+          </div>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
