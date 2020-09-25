@@ -3738,8 +3738,10 @@ mark {
 	.cd-timeline__date {
 		position: absolute;
 		width: 100%;
-		left: 120%;
+		/*left: 120%;*/
+		left: 200%;
 		top: 20px
+		
 	}
 	.cd-timeline__block:nth-child(even) .cd-timeline__date {
 		left: auto;
