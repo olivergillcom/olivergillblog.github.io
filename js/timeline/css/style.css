@@ -3869,3 +3869,22 @@ mark {
 		transform: translateX(0)
 	}
 }
+
+.hi {
+	list-style:none;
+	padding-left: 1em;
+  }
+
+.cpu {
+	&:before {
+	  content: '';
+	  display: inline-block;
+	  height: 1em;
+	  width: 1em;
+	  background-image: url(http://placehold.it/32?text=fallback); // Fallback PNG
+	  background-image: url(https://upload.wikimedia.org/wikipedia/commons/9/93/Tango-bullet.svg);
+	  background-size: contain;
+	  background-repeat: no-repeat;
+	  margin-right:0.5em;   
+	}
+  }
