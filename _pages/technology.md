@@ -13,7 +13,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
 </head>
 <body>
-
+<div>
   <div class="filter__img filter__img--green">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
@@ -23,7 +23,7 @@ featured_image: /images/demo/demo-portrait.jpg
   <div class="filter__img filter__img--purple">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
-
+</div>
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
@@ -40,13 +40,14 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
           <ul class="computer">
+            <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
+            <li class="case">Gamemax Abyss Infinity</li>
+            
             <li class="cpu">CPU TBC</li>
             <li class="cooler">Cooler TBC</li>
             <li class="motherboard">Motherboard TBC</li>
             <li class="memory">Memory TBC</li>
             <li class="storage">Storage TBC</li>
-            <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
-            <li class="case">Gamemax Abyss Infinity</li>
             <li class="psu">PSU TBC</li>
           </ul>
         </div> <!-- cd-timeline__content -->

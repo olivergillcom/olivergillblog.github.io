@@ -3977,7 +3977,6 @@ mark {
 
 
   .filter__img {
-	/*
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-pack: center;
@@ -3986,8 +3985,6 @@ mark {
 	align-items: center;
 	-ms-flex-negative: 0;
 	flex-shrink: 0;
-	*/
-
 	width: 40px;
 	height: 40px;
 	border-radius: 50%;
