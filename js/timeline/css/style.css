@@ -3879,7 +3879,8 @@ mark {
 	  background-image: url(/images/pages/tech/cpu.svg);
 	  background-size: contain;
 	  background-repeat: no-repeat;
-	  margin-right:0.5em;   
+	  margin-right:0.5em;
+	  margin-top:0.1em; 
 	
   }
 
