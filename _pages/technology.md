@@ -51,7 +51,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">January 2018</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming - luckily for me investing in this generation ended up being a great decision as Nvidia for the most part rested on their laurels. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
+          <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
           <ul>
             <li class="gpu">EVGA GTX 1080 Ti FTW3 Hybrid</li>
             <li class="case">Thermaltake V21</li>
