@@ -56,7 +56,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming - luckily for me investing in this generation ended up being a great decision as Nvidia for the most part rested on their laurels. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
           <ul>
-            <li class="gpu">EVGA GeForce GTX 1080 Ti FTW3 Hybrid</li>
+            <li class="gpu">EVGA GTX 1080 Ti FTW3 Hybrid</li>
             <li class="case">Thermaltake V21</li>
           </ul>
 
@@ -80,7 +80,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="motherboard">Asus Z170I PRO GAMING Mini-ITX</li>
             <li class="memory">Corsair Vengeance LPX 32GB DDR4-2133</li>
             <li class="storage">Samsung 950 PRO 512GB M.2</li>
-            <li class="gpu">EVGA GeForce GTX 980 Ti FTW</li>
+            <li class="gpu">EVGA GTX 980 Ti FTW</li>
             <li class="case">Corsair 250D</li>
             <li class="psu">Corsair 750W 80+ Platinum</li>
           </ul>
@@ -104,7 +104,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="motherboard">Asus H81I-PLUS Mini-ITX</li>
             <li class="memory">Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600</li>
             <li class="storage">Samsung 840 EVO 250GB</li>
-            <li class="gpu">EVGA GeForce GTX 960 2GB SSC ACX 2.0+</li>
+            <li class="gpu">EVGA GTX 960 2GB SSC ACX 2.0+</li>
             <li class="case">Fractal Design Node 304</li>
             <li class="psu">Corsair VS 550W 80+</li>
           </ul>
@@ -124,7 +124,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
           <ul>
-            <li class="gpu">EVGA GeForce GTX 590 Classified Edition</li>
+            <li class="gpu">EVGA GTX 590 Classified Edition</li>
           </ul>
 
         </div> <!-- cd-timeline__content -->
@@ -147,7 +147,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="motherboard">Asus Rampage III Extreme</li>
             <li class="memory">Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz</li>
             <li class="storage">OCZ Revodrive 240GB PCIe</li>
-            <li class="gpu">EVGA Geforce GTX 480 SC (x2 SLi)</li>
+            <li class="gpu">EVGA GTX 480 SC (x2 SLi)</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">Corsair 1000W Gold</li>
           </ul>
@@ -172,7 +172,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="motherboard">Asus P5N32-SLi SE Deluxe</li>
             <li class="memory">Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz</li>
             <li class="storage">Samsung Spinmaster 320GB</li>
-            <li class="gpu">Asus EN8800GTX GeForce (x2 SLI)</li>
+            <li class="gpu">Asus EN8800GTX (x2 SLI)</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">OCZ 900W MOD XSTREAM</li>
           </ul>
