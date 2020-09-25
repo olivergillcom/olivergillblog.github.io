@@ -24,7 +24,7 @@ featured_image: /images/demo/demo-portrait.jpg
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v5</h2>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">October 2020</span>
+            <span class="cd-timeline__date">In Development</span>
           </div>
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
@@ -74,7 +74,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="cpu">Intel Core i7-6700K</li>
             <li class="cooler">Corsair H100i GTX</li>
             <li class="motherboard">Asus Z170I PRO GAMING Mini-ITX</li>
-            <li class="memory">Corsair Vengeance LPX 32GB DDR4-2133</li>
+            <li class="memory">Corsair Vengeance LPX 32GB DDR4</li>
             <li class="storage">Samsung 950 PRO 512GB M.2</li>
             <li class="gpu">EVGA GTX 980 Ti FTW</li>
             <li class="case">Corsair 250D</li>
@@ -103,7 +103,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
             <li class="cooler">Arctic Freezer 11 LP</li>
             <li class="motherboard">Asus H81I-PLUS Mini-ITX</li>
-            <li class="memory">Corsair Vengeance LP 16GB (2 x 8GB) DDR4-1600</li>
+            <li class="memory">Corsair Vengeance LP 16GB DDR4</li>
             <li class="storage">Samsung 840 EVO 250GB</li>
             <li class="gpu">EVGA GTX 960 2GB SSC ACX 2.0+</li>
             <li class="case">Fractal Design Node 304</li>
@@ -147,7 +147,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="cpu">Intel Core i7-980X @3.5GHz</li>
             <li class="cooler">Corsair H70</li>
             <li class="motherboard">Asus Rampage III Extreme</li>
-            <li class="memory">Corsair Dominator-GT 12GB (6 x 2GB) DDR3 1866Mhz</li>
+            <li class="memory">Corsair Dominator-GT 12GB DDR3</li>
             <li class="storage">OCZ Revodrive 240GB PCIe</li>
             <li class="gpu">EVGA GTX 480 SC (x2 SLi)</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
@@ -174,7 +174,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="cpu">Intel Core2 Quad Q6600 @3.0GHz</li>
             <li class="cooler">Tuniq Tower 120</li>
             <li class="motherboard">Asus P5N32-SLi SE Deluxe</li>
-            <li class="memory">Corsair Dominator 4GB (4 x 1GB) DDR2 1066Mhz</li>
+            <li class="memory">Corsair Dominator 4GB DDR2</li>
             <li class="storage">Samsung Spinmaster 320GB</li>
             <li class="gpu">Asus EN8800GTX (x2 SLI)</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
@@ -198,7 +198,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
           <ul>
-            <H3>Sony VAIO a317M</H3>
+            <h4>Sony VAIO a317M</h4>
             <li class="cpu">Intel Pentium M 740 Centrino @1.73Ghz</li>
             <li class="memory">512MB RAM</li>
             <li class="gpu">ATI Radeon X600</li>
@@ -221,7 +221,7 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
           <ul>
-            <H3>Dell Dimension 8200</H3>
+            <h4>Dell Dimension 8200</h4>
             <li class="cpu">Intel Pentium 4</li>
             <li class="memory">512MB RAM</li>
             <li class="gpu">Various</li>
