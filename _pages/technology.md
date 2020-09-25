@@ -149,7 +149,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="motherboard">Asus Rampage III Extreme</li>
             <li class="memory">Corsair Dominator-GT 12GB DDR3</li>
             <li class="storage">OCZ Revodrive 240GB PCIe</li>
-            <li class="gpu">EVGA GTX 480 SC (x2 SLi)</li>
+            <li class="gpu">EVGA GTX 480 SC (x2 SLI)</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">Corsair 1000W Gold</li>
           </ul>
@@ -197,8 +197,8 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
+          <h5>Sony VAIO a317M</h5>
           <ul>
-            <h4>Sony VAIO a317M</h4>
             <li class="cpu">Intel Pentium M 740 Centrino @1.73Ghz</li>
             <li class="memory">512MB RAM</li>
             <li class="gpu">ATI Radeon X600</li>
@@ -220,8 +220,8 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
+          <h5>Dell Dimension 8200</h5>
           <ul>
-            <h4>Dell Dimension 8200</h4>
             <li class="cpu">Intel Pentium 4</li>
             <li class="memory">512MB RAM</li>
             <li class="gpu">Various</li>
