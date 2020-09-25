@@ -3974,3 +3974,55 @@ mark {
 	margin-right:0.5em;   
   
   }
+
+
+  .filter__img {
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-pack: center;
+	justify-content: center;
+	-ms-flex-align: center;
+	align-items: center;
+	-ms-flex-negative: 0;
+	flex-shrink: 0;
+	width: 40px;
+	height: 40px;
+	border-radius: 50%;
+	box-shadow: 0 0 0 4px hsl(0, 0%, 100%), inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05);
+	box-shadow: 0 0 0 4px var(--color-white), inset 0 2px 0 rgba(0, 0, 0, 0.08), 0 3px 0 4px rgba(0, 0, 0, 0.05)
+}
+
+.filter__img img {
+	width: 24px;
+	height: 24px
+}
+
+/*
+@media (min-width: 64rem) {
+	.filter__img {
+		width: 60px;
+		height: 60px;
+		-ms-flex-order: 1;
+		order: 1;
+		margin-left: calc(5% - 30px);
+		will-change: transform
+	}
+	.filter__block:nth-child(even) .filter__img {
+		margin-right: calc(5% - 30px)
+	}
+}*/
+
+.filter__img--green {
+	background-color: hsl(111, 51%, 60%);
+	background-color: var(--cd-color-4)
+}
+
+.filter__img--red {
+	background-color: hsl(356, 53%, 49%);
+	background-color: var(--cd-color-5)
+}
+
+.filter__img--yellow {
+	background-color: hsl(47, 85%, 61%);
+	background-color: var(--cd-color-6)
+}

@@ -14,13 +14,13 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
 
-  <div class="cd-timeline__img--green">
+  <div class="filter__img filter__img--green">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
-  <div class="cd-timeline__img--yellow">
+  <div class="filter__img filter__img--yellow">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
-  <div class="cd-timeline__img--red">
+  <div class="filter__img filter__img--red">
     <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
   </div>
 
