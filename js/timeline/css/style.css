@@ -3744,7 +3744,7 @@ mark {
 	}
 	.cd-timeline__block:nth-child(even) .cd-timeline__date {
 		left: auto;
-		right: 120%;
+		right: 122%;
 		text-align: right
 	}
 }
