@@ -29,9 +29,11 @@ featured_image: /images/demo/demo-portrait.jpg
     <a href="#0" class="btn btn--subtle">Read more</a>
   </div>
   <div class="flex justify-between items-center">
-    <div class="filter__img filter__img--green">
-      <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-    </div>
+    <a href="#0" class="btn btn--subtle">
+      <div class="filter__img filter__img--purple">
+        <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+      </div>
+    </a>
   </div>
 </div>
 
