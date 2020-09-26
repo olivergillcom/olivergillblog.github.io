@@ -14,21 +14,20 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
 <div>
-  <div class="filter__img filter__img--green">
-    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-  </div>
-  <div class="filter__img filter__img--blue">
-    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-  </div>
-  <div class="filter__img filter__img--purple">
-    <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-  </div>
-</div>
-<div>
   <div class="flex justify-between items-center">
     <a href="#0" class="btn btn--subtle">Read more</a>
   </div>
   <div class="flex justify-between items-center">
+    <a href="#0" class="btn btn--subtle">
+      <div class="filter__img filter__img--purple">
+        <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+      </div>
+    </a>
+    <a href="#0" class="btn btn--subtle">
+      <div class="filter__img filter__img--purple">
+        <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+      </div>
+    </a>
     <a href="#0" class="btn btn--subtle">
       <div class="filter__img filter__img--purple">
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
