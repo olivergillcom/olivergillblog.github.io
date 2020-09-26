@@ -14,7 +14,7 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
   <div class="flex justify-between items-center">
-    <a href="#0" class="btn btn--subtle">
+    <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle">
       <div class="filter__img filter__img--green">
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
       </div>
@@ -378,4 +378,14 @@ Google Pixel 4 XL
     </div>
   </section> <!-- cd-timeline -->
   <script src="/js/timeline/js/main.js"></script>
+  <script>
+    function ToggleVisibility(divClass)
+    {
+        var els = document.getElementsByClassName(divClass);
+        for(var i = 0; i < els.length; i++)
+        {
+            els[i].style.visibility = els[i].style.visibility == "hidden" ? "visible" : "hidden";
+        }
+    }
+  </script>
 </body>
