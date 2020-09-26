@@ -33,7 +33,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
-
+      
       <div class="cd-timeline__block gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
@@ -211,7 +211,7 @@ featured_image: /images/demo/demo-portrait.jpg
         <div class="cd-timeline__content text-component">
           <h2>OLI VAIO</h2>
           <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">TBC 2005</span>
+            <span class="cd-timeline__date">Summer 2005</span>
           </div>
           <hr>
           <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
