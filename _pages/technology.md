@@ -46,7 +46,7 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
   <div class="flex justify-between items-center">
-    <a class="btn btn--subtle">Muh PC</a>
+    <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
     <a class="btn btn--subtle">Muh Phone</a>
     <a class="btn btn--subtle">Muh Tablet</a>
 <!--
