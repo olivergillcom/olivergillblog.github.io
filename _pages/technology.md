@@ -77,7 +77,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">In Development</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
           <ul class="computer">
             <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
@@ -106,11 +105,14 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">January 2018</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
           <ul>
             <li class="gpu">EVGA GTX 1080 Ti FTW3 Hybrid</li>
             <li class="case">Thermaltake V21</li>
           </ul>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">Less of a power requirement, graphics cards are crazy loud when under load and I wanted to move hybrid watercooling for near-silent gaming. Unfortunately the addition of another radiator meant I needed to spring for a larger case.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -124,7 +126,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">February 2016</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">First build after gaming hiatus, continued with Mini-ITX, though with a little added girth in the case for AiO watercooling radiator.</p>
           <ul>
             <li class="cpu">Intel Core i7-6700K</li>
             <li class="cooler">Corsair H100i GTX</li>
@@ -140,6 +141,10 @@ featured_image: /images/demo/demo-portrait.jpg
             <img src="/images/pages/tech/OT4table.jpg">
             <img src="/images/pages/tech/OT4inside.jpg">
           </div>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">First build after gaming hiatus, continued with Mini-ITX, though with a little added girth in the case for AiO watercooling radiator.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -153,7 +158,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">August 2015</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, and selling my old machine - I needed something capable enough for photo and video editing. This pre-build from Scan fit the bill and the Micro-ATX case was a nice change from the previous E-ATX monster.</p>
           <ul>
             <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
             <li class="cooler">Arctic Freezer 11 LP</li>
@@ -167,6 +171,10 @@ featured_image: /images/demo/demo-portrait.jpg
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OT3.jpg">
           </div>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">After having taken a break from gaming to concentrate on work, and selling my old machine - I needed something capable enough for photo and video editing. This pre-build from Scan fit the bill and the Micro-ATX case was a nice change from the previous E-ATX monster.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -180,10 +188,13 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">July 2011</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
           <ul>
             <li class="gpu">EVGA GTX 590 Classified Edition</li>
           </ul>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">Even by now SLI had lost it's edge. As I was still on a triple monitor setup I moved to the single GTX 590 which had two GPU chips on one card.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -197,7 +208,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">September 2010</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">First job, first full-fat build - no expense spared.</p>
           <ul>
             <li class="cpu">Intel Core i7-980X @3.5GHz</li>
             <li class="cooler">Corsair H70</li>
@@ -211,6 +221,10 @@ featured_image: /images/demo/demo-portrait.jpg
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OT2.jpg">
           </div>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">First job, first full-fat build - no expense spared.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -224,7 +238,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">TBC 2008</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
           <ul>
             <li class="cpu">Intel Core2 Quad Q6600 @3.0GHz</li>
             <li class="cooler">Tuniq Tower 120</li>
@@ -238,6 +251,10 @@ featured_image: /images/demo/demo-portrait.jpg
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OT1.jpg">
           </div>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -251,7 +268,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">Summer 2005</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
           <h5>Sony VAIO a317M</h5>
           <ul>
             <li class="cpu">Intel Pentium M 740 Centrino @1.73Ghz</li>
@@ -261,6 +277,10 @@ featured_image: /images/demo/demo-portrait.jpg
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OV.jpg">
           </div>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">17" Laptop primarily for school work but obviously powerful enough for the odd game.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -274,7 +294,6 @@ featured_image: /images/demo/demo-portrait.jpg
             <span class="cd-timeline__date">Summer 2002</span>
           </div>
           <hr>
-          <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
           <h5>Dell Dimension 8200</h5>
           <ul>
             <li class="cpu">Intel Pentium 4</li>
@@ -284,6 +303,10 @@ featured_image: /images/demo/demo-portrait.jpg
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OD.jpg">
           </div>
+          <button type="button" class="collapsible">More Info</button>
+          <div class="contentInfo">
+            <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
+          </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
@@ -415,6 +438,8 @@ Google Pixel 4 XL
     </div>
   </section> <!-- cd-timeline -->
   <script src="/js/timeline/js/main.js"></script>
+
+
   <script>
     function ToggleVisibility(divClass)
     {
