@@ -49,7 +49,7 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
-          <p style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</p>
+          <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
           <ul class="computer">
             <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
