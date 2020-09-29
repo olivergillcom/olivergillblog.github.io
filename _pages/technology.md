@@ -10,7 +10,11 @@ featured_image: /images/demo/demo-portrait.jpg
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <script>document.getElementsByTagName("html")[0].className += " js";</script>
   <link rel="stylesheet" href="/js/timeline/css/style.css">
-
+<style>
+  .single h1, .single h2, .single h3, .single h4, .single h5, .single h6, .single p, .single ul, .single ol{
+    max-width: 10%;
+  }
+</style>
 </head>
 <body>
   <div class="flex justify-between items-center">
@@ -45,7 +49,7 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
-          <a href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
+          <p href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</p>
           <ul class="computer">
             <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
