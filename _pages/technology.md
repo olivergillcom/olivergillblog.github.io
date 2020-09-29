@@ -12,7 +12,7 @@ featured_image: /images/demo/demo-portrait.jpg
   <link rel="stylesheet" href="/js/timeline/css/style.css">
 <style>
   .single h1, .single h2, .single h3, .single h4, .single h5, .single h6, .single p, .single ul, .single ol{
-    max-width: 10%;
+    max-width: 100%;
   }
 </style>
 </head>
