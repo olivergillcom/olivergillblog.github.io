@@ -100,7 +100,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block gaming-pc" id="gaming-pc">
+      <div class="cd-timeline__block collapse" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -121,7 +121,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block gaming-pc" id="gaming-pc">
+      <div class="cd-timeline__block collapse" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
