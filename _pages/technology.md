@@ -44,12 +44,12 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
           <h2>OLI TOWER v5 (TBC)</h2>
+          <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">In Development</span>
           </div>
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
-          <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
           <ul class="computer">
             <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
