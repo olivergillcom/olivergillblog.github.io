@@ -91,9 +91,9 @@ featured_image: /images/demo/demo-portrait.jpg
             <li class="storage">TBC</li>
             <li class="psu">TBC</li>
           </ul>
-          <button type="button" class="collapsible">Open Collapsible</button>
+          <button type="button" class="collapsible">More Info</button>
           <div class="contentInfo">
-            <p>Lorem ipsum...</p>
+            <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
