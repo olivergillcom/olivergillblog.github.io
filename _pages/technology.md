@@ -19,32 +19,30 @@ featured_image: /images/demo/demo-portrait.jpg
 
 <!-- test shit-->
 <style>
+  .collapsible {
+    background-color: #777;
+    color: white;
+    cursor: pointer;
+    padding: 18px;
+    width: 100%;
+    border: none;
+    text-align: left;
+    outline: none;
+    font-size: 15px;
+  }
+  
+  .active, .collapsible:hover {
+    background-color: #555;
+  }
+  
   .contentInfo {
     padding: 0 18px;
-    background-color: white;
     max-height: 0;
     overflow: hidden;
     transition: max-height 0.2s ease-out;
+    background-color: #f1f1f1;
   }
   </style>
-  
-  <script>
-  var coll = document.getElementsByClassName("collapsible");
-  var i;
-  
-  for (i = 0; i < coll.length; i++) {
-    coll[i].addEventListener("click", function() {
-      this.classList.toggle("active");
-      var contentInfo = this.nextElementSibling;
-      if (contentInfo.style.maxHeight){
-        contentInfo.style.maxHeight = null;
-      } else {
-        contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
-      }
-    });
-  }
-  </script>
-
 </head>
 <body>
   <div class="flex justify-between items-center">
@@ -427,4 +425,20 @@ Google Pixel 4 XL
         }
     }
   </script>
+  <script>
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var contentInfo = this.nextElementSibling;
+        if (contentInfo.style.maxHeight){
+          contentInfo.style.maxHeight = null;
+        } else {
+          contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
+        } 
+      });
+    }
+    </script>
 </body>
