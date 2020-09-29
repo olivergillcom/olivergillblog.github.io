@@ -48,7 +48,8 @@ featured_image: /images/demo/demo-portrait.jpg
 <body>
   <div class="flex justify-between items-center">
     <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
-    <a class="btn btn--subtle">Muh Phone</a>
+    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#gaming-pc">Buttan</button>
+
     <a class="btn btn--subtle">Muh Tablet</a>
 <!--
     <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle gaming-pc-button">
