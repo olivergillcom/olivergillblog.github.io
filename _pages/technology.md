@@ -16,44 +16,19 @@ featured_image: /images/demo/demo-portrait.jpg
     max-width: 100%;
   }
 </style>
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<link rel="stylesheet" href="/css/bootstrap.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
-<!-- test shit-->
-<style>
-  .collapsible {
-    background-color: #777;
-    color: white;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-  }
-  
-  .active, .collapsible:hover {
-    background-color: #555;
-  }
-  
-  .contentInfo {
-    padding: 0 18px;
-    max-height: 0;
-    overflow: hidden;
-    transition: max-height 0.2s ease-out;
-    background-color: #f1f1f1;
-  }
-  </style>
 </head>
 <body>
   <div class="flex justify-between items-center">
     <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
+    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#gaming-pc" aria-expanded="false" aria-controls="collapseExample">Mee PeeCee</button>
+  
+<!--
     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#gaming-pc">Buttan</button>
 
-    <a class="btn btn--subtle">Muh Tablet</a>
-<!--
     <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle gaming-pc-button">
       <div class="filter__img filter__img--green">
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
@@ -72,12 +47,10 @@ featured_image: /images/demo/demo-portrait.jpg
 -->  
   </div>
 
-  <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#collapseExample" aria-expanded="false" aria-controls="collapseExample">Button
-  </button>
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
-      <div class="collapse" id="collapseExample">
+
         <div class="cd-timeline__block">
           <div class="cd-timeline__img cd-timeline__img--green">
             <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
@@ -106,8 +79,7 @@ featured_image: /images/demo/demo-portrait.jpg
             </div> 
           </div> <!-- cd-timeline__content -->
         </div> <!-- cd-timeline__block -->
-      </div>
-      <div class="cd-timeline__block collapse" id="gaming-pc">
+      <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -128,7 +100,7 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-      <div class="cd-timeline__block collapse" id="gaming-pc">
+      <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
