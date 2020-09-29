@@ -39,22 +39,23 @@ featured_image: /images/demo/demo-portrait.jpg
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
         <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER v5</h2>
+          <h2>OLI TOWER v5 (TBC)</h2>
           <div class="flex justify-between items-center">
             <span class="cd-timeline__date">In Development</span>
           </div>
           <hr>
           <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
+          <a href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
           <ul class="computer">
             <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
 
-            <li class="cpu">CPU TBC</li>
-            <li class="cooler">Cooler TBC</li>
-            <li class="motherboard">Motherboard TBC</li>
-            <li class="memory">Memory TBC</li>
-            <li class="storage">Storage TBC</li>
-            <li class="psu">PSU TBC</li>
+            <li class="cpu">TBC</li>
+            <li class="cooler">TBC</li>
+            <li class="motherboard">TBC</li>
+            <li class="memory">TBC</li>
+            <li class="storage">TBC</li>
+            <li class="psu">TBC</li>
           </ul>
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
