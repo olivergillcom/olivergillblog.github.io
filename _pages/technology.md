@@ -19,48 +19,31 @@ featured_image: /images/demo/demo-portrait.jpg
 
 <!-- test shit-->
 <style>
-  /* Style the button that is used to open and close the collapsible content */
-  .collapsible {
-    background-color: #eee;
-    color: #444;
-    cursor: pointer;
-    padding: 18px;
-    width: 100%;
-    border: none;
-    text-align: left;
-    outline: none;
-    font-size: 15px;
-  }
-
-  /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
-  .active, .collapsible:hover {
-    background-color: #ccc;
-  }
-
-  /* Style the collapsible content. Note: hidden by default */
-  .content {
+  .contentInfo {
     padding: 0 18px;
-    display: none;
+    background-color: white;
+    max-height: 0;
     overflow: hidden;
-    background-color: #f1f1f1;
-  } 
-</style>
-<script>
+    transition: max-height 0.2s ease-out;
+  }
+  </style>
+  
+  <script>
   var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-} 
-</script>
+  var i;
+  
+  for (i = 0; i < coll.length; i++) {
+    coll[i].addEventListener("click", function() {
+      this.classList.toggle("active");
+      var contentInfo = this.nextElementSibling;
+      if (contentInfo.style.maxHeight){
+        contentInfo.style.maxHeight = null;
+      } else {
+        contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
+      }
+    });
+  }
+  </script>
 
 </head>
 <body>
@@ -101,7 +84,7 @@ for (i = 0; i < coll.length; i++) {
             <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
             <li class="case">Gamemax Abyss Infinity</li>
 
-            <li class="cpu">TBC</li>
+            <li class="cpu">TBC</li>content
             <li class="cooler">TBC</li>
             <li class="motherboard">TBC</li>
             <li class="memory">TBC</li>
@@ -109,7 +92,7 @@ for (i = 0; i < coll.length; i++) {
             <li class="psu">TBC</li>
           </ul>
           <button type="button" class="collapsible">Open Collapsible</button>
-          <div class="content">
+          <div class="contentInfo">
             <p>Lorem ipsum...</p>
           </div> 
         </div> <!-- cd-timeline__content -->
