@@ -463,11 +463,13 @@ Google Pixel 4 XL
         var contentInfo = document.getElementsByClassName("gaming-pc");
         for(var j = 0; j < contentInfo.length; i++)
         {
+          window.alert(contentInfo.length);
+          /*
           if (contentInfo[j].style.maxHeight){
             contentInfo[j].style.maxHeight = null;
           } else {
             contentInfo[j].style.maxHeight = contentInfo[j].scrollHeight + "px";
-          } 
+          } */
         }
 
 
