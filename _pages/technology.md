@@ -83,36 +83,36 @@ featured_image: /images/demo/demo-portrait.jpg
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
-      
-      <div class="cd-timeline__block collapse" id="collapseExample">
-        <div class="cd-timeline__img cd-timeline__img--green">
-          <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-        </div> <!-- cd-timeline__img -->
-        <div class="cd-timeline__content text-component">
-          <h2>OLI TOWER v5 (TBC)</h2>
-          <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">In Development</span>
-          </div>
-          <hr>
-          <ul class="computer">
-            <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
-            <li class="case">Gamemax Abyss Infinity</li>
+      <div class="collapse" id="collapseExample">
+        <div class="cd-timeline__block">
+          <div class="cd-timeline__img cd-timeline__img--green">
+            <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
+          </div> <!-- cd-timeline__img -->
+          <div class="cd-timeline__content text-component">
+            <h2>OLI TOWER v5 (TBC)</h2>
+            <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker Part List</a>
+            <div class="flex justify-between items-center">
+              <span class="cd-timeline__date">In Development</span>
+            </div>
+            <hr>
+            <ul class="computer">
+              <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
+              <li class="case">Gamemax Abyss Infinity</li>
 
-            <li class="cpu">TBC</li>content
-            <li class="cooler">TBC</li>
-            <li class="motherboard">TBC</li>
-            <li class="memory">TBC</li>
-            <li class="storage">TBC</li>
-            <li class="psu">TBC</li>
-          </ul>
-          <button type="button" class="collapsible">More Info</button>
-          <div class="contentInfo">
-            <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
-          </div> 
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
+              <li class="cpu">TBC</li>content
+              <li class="cooler">TBC</li>
+              <li class="motherboard">TBC</li>
+              <li class="memory">TBC</li>
+              <li class="storage">TBC</li>
+              <li class="psu">TBC</li>
+            </ul>
+            <button type="button" class="collapsible">More Info</button>
+            <div class="contentInfo">
+              <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
+            </div> 
+          </div> <!-- cd-timeline__content -->
+        </div> <!-- cd-timeline__block -->
+      </div>
       <div class="cd-timeline__block collapse" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
