@@ -46,6 +46,10 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
   <div class="flex justify-between items-center">
+    <a class="btn btn--subtle">Muh PC</a>
+    <a class="btn btn--subtle">Muh Phone</a>
+    <a class="btn btn--subtle">Muh Tablet</a>
+<!--
     <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle gaming-pc-button">
       <div class="filter__img filter__img--green">
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
@@ -61,6 +65,7 @@ featured_image: /images/demo/demo-portrait.jpg
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
       </div>
     </a>
+-->  
   </div>
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
