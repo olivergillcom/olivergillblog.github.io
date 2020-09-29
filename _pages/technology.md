@@ -16,6 +16,7 @@ featured_image: /images/demo/demo-portrait.jpg
     max-width: 100%;
   }
 </style>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 <!-- test shit-->
 <style>
