@@ -46,7 +46,7 @@ featured_image: /images/demo/demo-portrait.jpg
 </head>
 <body>
   <div class="flex justify-between items-center">
-    <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle">
+    <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle gaming-pc-button">
       <div class="filter__img filter__img--green">
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
       </div>
@@ -310,8 +310,6 @@ featured_image: /images/demo/demo-portrait.jpg
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
 
-
-
 <!-- PC FINISH -->
 <!--
 GameBoy Colour & Advance
@@ -450,20 +448,53 @@ Google Pixel 4 XL
         }
     }
   </script>
+
+
+
+
+
   <script>
-    var coll = document.getElementsByClassName("collapsible");
+    var filterButton1 = document.getElementsByClassName("gaming-pc-button");
     var i;
     
-    for (i = 0; i < coll.length; i++) {
-      coll[i].addEventListener("click", function() {
+    for (i = 0; i < filterButton1.length; i++) {
+      filterButton1[i].addEventListener("click", function() {
         this.classList.toggle("active");
-        var contentInfo = this.nextElementSibling;
-        if (contentInfo.style.maxHeight){
-          contentInfo.style.maxHeight = null;
-        } else {
-          contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
-        } 
+        var contentInfo = document.getElementsByClassName("gaming-pc");
+        for(var j = 0; j < contentInfo.length; i++)
+        {
+          if (contentInfo[j].style.maxHeight){
+            contentInfo[j].style.maxHeight = null;
+          } else {
+            contentInfo[j].style.maxHeight = contentInfo[j].scrollHeight + "px";
+          } 
+        }
+
+
+
       });
     }
-    </script>
+  </script>
+
+
+
+
+
+
+    <script>
+      var coll = document.getElementsByClassName("collapsible");
+      var i;
+      
+      for (i = 0; i < coll.length; i++) {
+        coll[i].addEventListener("click", function() {
+          this.classList.toggle("active");
+          var contentInfo = this.nextElementSibling;
+          if (contentInfo.style.maxHeight){
+            contentInfo.style.maxHeight = null;
+          } else {
+            contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
+          } 
+        });
+      }
+      </script>
 </body>
