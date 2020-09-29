@@ -450,39 +450,6 @@ Google Pixel 4 XL
   </script>
 -->
 
-
-
-
-  <script>
-    var filterButton1 = document.getElementsByClassName("gaming-pc-button");
-    var i;
-    
-    for (i = 0; i < filterButton1.length; i++) {
-      filterButton1[i].addEventListener("click", function() {
-        this.classList.toggle("active");
-        var contentInfo = document.getElementsByClassName("gaming-pc");
-        for(var j = 0; j < contentInfo.length; i++)
-        {
-          window.alert(contentInfo.length);
-          /*
-          if (contentInfo[j].style.maxHeight){
-            contentInfo[j].style.maxHeight = null;
-          } else {
-            contentInfo[j].style.maxHeight = contentInfo[j].scrollHeight + "px";
-          } */
-        }
-
-
-
-      });
-    }
-  </script>
-
-
-
-
-
-
     <script>
       var coll = document.getElementsByClassName("collapsible");
       var i;
