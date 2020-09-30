@@ -73,8 +73,7 @@ featured_image: /images/demo/demo-portrait.jpg
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
-      <div id="gaming-pc">
-        <div class="cd-timeline__block">
+        <div class="cd-timeline__block" id="gaming-pc">
           <div class="cd-timeline__img cd-timeline__img--green">
             <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
           </div> <!-- cd-timeline__img -->
@@ -102,9 +101,8 @@ featured_image: /images/demo/demo-portrait.jpg
             </div> 
           </div> <!-- cd-timeline__content -->
         </div> <!-- cd-timeline__block -->
-      </div>
-      <div id="gaming-pc">
-      <div class="cd-timeline__block">
+
+      <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -124,9 +122,8 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -157,10 +154,9 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
 
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -189,10 +185,9 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
 
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--yellow">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -211,10 +206,9 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
 
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -243,10 +237,9 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
 
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -275,10 +268,9 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
 
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -303,10 +295,9 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-    </div>
-    <div id="gaming-pc">
 
-      <div class="cd-timeline__block">
+
+       <div class="cd-timeline__block" id="gaming-pc">
         <div class="cd-timeline__img cd-timeline__img--green">
           <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
         </div> <!-- cd-timeline__img -->
@@ -331,7 +322,7 @@ featured_image: /images/demo/demo-portrait.jpg
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
-</div>
+
 <!-- PC FINISH -->
 <!--
 GameBoy Colour & Advance
