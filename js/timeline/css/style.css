@@ -3881,6 +3881,7 @@ mark {
 	  background-size: contain;
 	  background-repeat: no-repeat;
 	  margin-right:0.5em;
+	padding: 3px 0px;
 	
   }
 
@@ -3893,7 +3894,8 @@ mark {
 	background-image: url(/images/pages/tech/cooler.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
-	margin-right:0.5em;   
+	margin-right:0.5em;
+	padding: 3px 0px;   
   
 }
 
@@ -3906,7 +3908,8 @@ mark {
   background-image: url(/images/pages/tech/motherboard.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right:0.5em;   
+  margin-right:0.5em;
+	padding: 3px 0px;   
 
 }
 
@@ -3919,7 +3922,8 @@ mark {
   background-image: url(/images/pages/tech/memory.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right:0.5em;   
+  margin-right:0.5em;
+	padding: 3px 0px;   
 
 }
 
@@ -3932,7 +3936,8 @@ mark {
   background-image: url(/images/pages/tech/storage.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right:0.5em;   
+  margin-right:0.5em;
+	padding: 3px 0px;   
 
 }
 
@@ -3945,7 +3950,8 @@ mark {
   background-image: url(/images/pages/tech/gpu.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right:0.5em;   
+  margin-right:0.5em;
+	padding: 3px 0px;   
 
 }
 
@@ -3958,7 +3964,8 @@ mark {
   background-image: url(/images/pages/tech/case.svg);
   background-size: contain;
   background-repeat: no-repeat;
-  margin-right:0.5em;   
+  margin-right:0.5em;
+	padding: 3px 0px;   
 
 }
 
@@ -3971,7 +3978,8 @@ mark {
 	background-image: url(/images/pages/tech/psu.svg);
 	background-size: contain;
 	background-repeat: no-repeat;
-	margin-right:0.5em;   
+	margin-right:0.5em;
+	padding: 3px 0px;   
   
   }
 
