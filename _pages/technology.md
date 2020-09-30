@@ -42,7 +42,7 @@ featured_image: /images/demo/demo-portrait.jpg
     background-color: #f1f1f1;
   }
 
-  .contentInfo .p{
+  .contentInfo p{
     padding: 18px 0px;
   }
   </style>
