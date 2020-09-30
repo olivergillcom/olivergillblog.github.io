@@ -91,7 +91,7 @@ featured_image: /images/demo/demo-portrait.jpg
             </div>
             <hr>
             <h5>
-              <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker List</a>
+              <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/CzWvf7">PCPartPicker List</a>
             </h5>
             <br>
             <ul class="computer">
