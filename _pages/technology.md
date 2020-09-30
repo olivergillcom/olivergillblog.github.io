@@ -82,8 +82,10 @@ featured_image: /images/demo/demo-portrait.jpg
             <div class="flex justify-between items-center">
               <span class="cd-timeline__date">In Development</span>
             </div>
-            <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker List</a>
             <hr>
+            <h5>
+              <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker List</a>
+            </h5>
             <ul class="computer">
               <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
               <li class="case">Gamemax Abyss Infinity</li>
