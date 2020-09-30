@@ -445,7 +445,7 @@ Google Pixel 4 XL
         }
     }
   </script>
-
+<!--
     <script>
       var coll = document.getElementsByClassName("collapsible");
       var i;
@@ -461,5 +461,5 @@ Google Pixel 4 XL
           } 
         });
       }
-      </script>
+      </script>-->
 </body>
