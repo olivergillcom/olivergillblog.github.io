@@ -11,20 +11,18 @@ featured_image: /images/demo/demo-portrait.jpg
   <script>document.getElementsByTagName("html")[0].className += " js";</script>
   <link rel="stylesheet" href="/js/timeline/css/style.css">
 <!-- fix for margins -->
+
 <style>
   .single h1, .single h2, .single h3, .single h4, .single h5, .single h6, .single p, .single ul, .single ol{
     max-width: 100%;
   }
 </style>
-<link rel="stylesheet" href="/css/bootstrap.css">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 
 </head>
 <body>
   <div class="flex justify-between items-center">
-    <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
-<!--    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#gaming-pc" aria-expanded="false" aria-controls="collapseExample">Mee PeeCee</button>
+<!--    <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
+    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#gaming-pc" aria-expanded="false" aria-controls="collapseExample">Mee PeeCee</button>
   
 
     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#gaming-pc">Buttan</button>
