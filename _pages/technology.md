@@ -271,7 +271,7 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <button type="button" class="collapsible">More Info</button>
           <div class="contentInfo">
-            <p class="color-contrast-medium">First Gaming-PC build. Over the top case and solid all round components, stretching to SLI 8800GTX's once I'd earned enough.</p>
+            <p class="color-contrast-medium">First Gaming-PC build. Over-the-top case and solid mid-high tier components, stretching to SLI 8800GTX's once I'd earned enough.</p>
           </div> 
         </div> <!-- cd-timeline__content -->
       </div> <!-- cd-timeline__block -->
