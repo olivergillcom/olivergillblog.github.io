@@ -86,20 +86,21 @@ featured_image: /images/demo/demo-portrait.jpg
             <h5>
               <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/jdPmdm">PCPartPicker List</a>
             </h5>
+            <br>
             <ul class="computer">
               <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
               <li class="case">Gamemax Abyss Infinity</li>
-
-              <li class="cpu">TBC</li>content
+              <br>
+              <li class="cpu">TBC</li>
               <li class="cooler">TBC</li>
               <li class="motherboard">TBC</li>
               <li class="memory">TBC</li>
               <li class="storage">TBC</li>
               <li class="psu">TBC</li>
             </ul>
-            <button type="button" class="collapsible">More Info</button>
+            <button type="button" class="collapsible color-contrast-medium">More Info</button>
             <div class="contentInfo">
-              <p class="">Something that will last at least five years and be capable of VR.</p>
+              <p>Something that will last at least five years and be capable of high end VR for three.</p>
             </div> 
           </div> <!-- cd-timeline__content -->
         </div> <!-- cd-timeline__block -->
