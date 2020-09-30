@@ -99,7 +99,7 @@ featured_image: /images/demo/demo-portrait.jpg
             </ul>
             <button type="button" class="collapsible">More Info</button>
             <div class="contentInfo">
-              <p class="color-contrast-medium">Something that will last at least five years and be capable of VR.</p>
+              <p class="">Something that will last at least five years and be capable of VR.</p>
             </div> 
           </div> <!-- cd-timeline__content -->
         </div> <!-- cd-timeline__block -->
