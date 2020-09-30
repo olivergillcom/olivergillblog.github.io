@@ -449,33 +449,20 @@ Google Pixel 4 XL
     </div>
   </section> <!-- cd-timeline -->
   <script src="/js/timeline/js/main.js"></script>
-
-
   <script>
-    function ToggleVisibility(divClass)
-    {
-        var els = document.getElementsByClassName(divClass);
-        for(var i = 0; i < els.length; i++)
-        {
-            els[i].style.visibility = els[i].style.visibility == "hidden" ? "visible" : "hidden";
-        }
+    var coll = document.getElementsByClassName("collapsible");
+    var i;
+    
+    for (i = 0; i < coll.length; i++) {
+      coll[i].addEventListener("click", function() {
+        this.classList.toggle("active");
+        var contentInfo = this.nextElementSibling;
+        if (contentInfo.style.maxHeight){
+          contentInfo.style.maxHeight = null;
+        } else {
+          contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
+        } 
+      });
     }
-  </script>
-<!--
-    <script>
-      var coll = document.getElementsByClassName("collapsible");
-      var i;
-      
-      for (i = 0; i < coll.length; i++) {
-        coll[i].addEventListener("click", function() {
-          this.classList.toggle("active");
-          var contentInfo = this.nextElementSibling;
-          if (contentInfo.style.maxHeight){
-            contentInfo.style.maxHeight = null;
-          } else {
-            contentInfo.style.maxHeight = contentInfo.scrollHeight + "px";
-          } 
-        });
-      }
-      </script>-->
+    </script>
 </body>
