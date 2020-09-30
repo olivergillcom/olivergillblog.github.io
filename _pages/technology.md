@@ -434,7 +434,7 @@ Google Pixel 4 XL
   </section> <!-- cd-timeline -->
   <script src="/js/timeline/js/main.js"></script>
 
-<!--
+
   <script>
     function ToggleVisibility(divClass)
     {
@@ -445,7 +445,6 @@ Google Pixel 4 XL
         }
     }
   </script>
--->
 
     <script>
       var coll = document.getElementsByClassName("collapsible");
