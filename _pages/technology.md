@@ -45,6 +45,10 @@ featured_image: /images/demo/demo-portrait.jpg
   .contentInfo p{
     padding: 18px 0px;
   }
+
+  .text-component p{
+    margin-bottom: 0px
+  }
   </style>
 
 </head>
@@ -53,7 +57,6 @@ featured_image: /images/demo/demo-portrait.jpg
 <!--    <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#gaming-pc" aria-expanded="false" aria-controls="collapseExample">Mee PeeCee</button>
   
-
     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#gaming-pc">Buttan</button>
 
     <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle gaming-pc-button">
