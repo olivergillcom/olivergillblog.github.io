@@ -53,8 +53,9 @@ featured_image: /images/demo/demo-portrait.jpg
 
 </head>
 <body>
+  <!--  
   <div class="flex justify-between items-center">
-<!--    <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
+  <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
     <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#gaming-pc" aria-expanded="false" aria-controls="collapseExample">Mee PeeCee</button>
   
     <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#gaming-pc">Buttan</button>
@@ -74,9 +75,9 @@ featured_image: /images/demo/demo-portrait.jpg
         <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
       </div>
     </a>
--->  
+ 
   </div>
-
+  --> 
 
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
