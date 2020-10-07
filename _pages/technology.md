@@ -379,6 +379,29 @@ Google Pixel 4 XL
 -->
 
 
+<div class="cd-timeline__block" id="phone">
+  <div class="cd-timeline__img cd-timeline__img--purple">
+    <img src="/images/pages/tech/phone.svg" alt="Picture">
+  </div> <!-- cd-timeline__img -->
+  <div class="cd-timeline__content text-component">
+    <h2>PHONE EXAMPLE</h2>
+    <div class="flex justify-between items-center">
+      <span class="cd-timeline__date">Summer 2002</span>
+    </div>
+    <hr>
+    <div class="gallery" data-columns="3">
+      <img src="/images/pages/tech/OD.jpg">
+    </div>
+    <button type="button" class="collapsible">More Info</button>
+    <div class="contentInfo">
+      <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
+    </div> 
+  </div> <!-- cd-timeline__content -->
+</div> <!-- cd-timeline__block -->
+
+
+
+
       <div class="cd-timeline__block">
         <div class="cd-timeline__img cd-timeline__img--red">
           <img src="/js/timeline/img/cd-icon-movie.svg" alt="Movie">
