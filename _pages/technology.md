@@ -94,17 +94,17 @@ featured_image: /images/demo/demo-portrait.jpg
             <h5>
               <a class="color-contrast-medium" style ="text-decoration: underline" href="https://uk.pcpartpicker.com/list/CzWvf7">PCPartPicker List</a>
             </h5>
-            <br>
+           <br>
             <ul class="computer">
-              <li class="gpu">TBD - an EVGA RTX 3090 Hybrid</li>
+              <li class="memory">G.Skill Trident Z Neo 32GB DDR4-3600 CL14</li>
+              <li class="storage">Samsung 980 NVMe 1TB PCIe4.0</li>
+              <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
               <li class="case">Gamemax Abyss Infinity</li>
               <br>
               <li class="cpu">TBD - an AMD R59XX</li>
               <li class="cooler">TBD</li>
-              <li class="motherboard">TBD</li>
-              <li class="memory">G.Skill Trident Z Neo 32GB DDR4-3600 CL14</li>
-              <li class="storage">Samsung 980 NVMe 1TB PCIe4.0</li>
-              <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
+              <li class="motherboard">TBD - Asus</li>
+              <li class="gpu">TBD - an EVGA RTX 3090 Hybrid</li>
               <li class="psu">TBD - Corsair 850W+</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
