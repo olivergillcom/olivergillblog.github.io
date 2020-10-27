@@ -86,7 +86,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
           </div> <!-- cd-timeline__img -->
           <div class="cd-timeline__content text-component">
-            <h2>OLI TOWER v5 (TBC)</h2>
+            <h2>OLI TORN (TBC)</h2>
             <div class="flex justify-between items-center">
               <span class="cd-timeline__date">In Development</span>
             </div>
@@ -96,15 +96,16 @@ featured_image: /images/demo/demo-portrait.jpg
             </h5>
             <br>
             <ul class="computer">
-              <li class="gpu">EVGA RTX 3090 FTW3 Ultra</li>
+              <li class="gpu">EVGA RTX 3090 - Hybrid TBD</li>
               <li class="case">Gamemax Abyss Infinity</li>
               <br>
-              <li class="cpu">TBC</li>
-              <li class="cooler">TBC</li>
-              <li class="motherboard">TBC</li>
-              <li class="memory">TBC</li>
-              <li class="storage">TBC</li>
-              <li class="psu">TBC</li>
+              <li class="cpu">TBD</li>
+              <li class="cooler">TBD</li>
+              <li class="motherboard">TBD</li>
+              <li class="memory">G.Skill Trident Z Neo 32GB DDR4-3600 CL14</li>
+              <li class="storage">Samsung 980 NVMe 1TB PCIe4.0</li>
+              <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
+              <li class="psu">TBD</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
             <div class="contentInfo">
