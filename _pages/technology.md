@@ -96,19 +96,20 @@ featured_image: /images/demo/demo-portrait.jpg
             </h5>
             <br>
             <ul class="computer">
-              <li class="gpu">EVGA RTX 3090 - Hybrid TBD</li>
+              <li class="gpu">TBD - an EVGA RTX 3090 Hybrid</li>
               <li class="case">Gamemax Abyss Infinity</li>
               <br>
-              <li class="cpu">TBD</li>
+              <li class="cpu">TBD - an AMD R59XX</li>
               <li class="cooler">TBD</li>
               <li class="motherboard">TBD</li>
               <li class="memory">G.Skill Trident Z Neo 32GB DDR4-3600 CL14</li>
               <li class="storage">Samsung 980 NVMe 1TB PCIe4.0</li>
               <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
-              <li class="psu">TBD</li>
+              <li class="psu">TBD - Corsair 850W+</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
             <div class="contentInfo">
+              <p>Torn is the Estonian word for Tower</p>
               <p>Something that will last at least five years and be capable of high end VR for three.</p>
             </div> 
           </div> <!-- cd-timeline__content -->
