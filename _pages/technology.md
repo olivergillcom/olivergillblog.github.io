@@ -101,10 +101,10 @@ featured_image: /images/demo/demo-portrait.jpg
               <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
               <li class="case">Gamemax Abyss Infinity</li>
               <br>
-              <li class="cpu">TBD - an AMD R59XX</li>
-              <li class="cooler">TBD</li>
-              <li class="motherboard">TBD - Asus</li>
               <li class="gpu">TBD - an EVGA RTX 3090 Hybrid</li>
+              <li class="cpu">TBD - an AMD R59XX</li>
+              <li class="motherboard">TBD - Asus</li>
+              <li class="cooler">TBD</li>
               <li class="psu">TBD - Corsair 850W+</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
@@ -147,12 +147,12 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <ul>
-            <li class="cpu">Intel Core i7-6700K</li>
-            <li class="cooler">Corsair H100i GTX</li>
-            <li class="motherboard">Asus Z170i PRO GAMING</li>
-            <li class="memory">Corsair Vengeance LPX 32GB DDR4</li>
-            <li class="storage">Samsung 950 PRO 512GB M.2</li>
             <li class="gpu">EVGA GTX 980 Ti FTW</li>
+            <li class="cpu">Intel Core i7-6700K</li>
+            <li class="memory">Corsair Vengeance LPX 32GB DDR4</li>
+            <li class="motherboard">Asus Z170i PRO GAMING</li>
+            <li class="storage">Samsung 950 PRO 512GB M.2</li>
+            <li class="cooler">Corsair H100i GTX</li>
             <li class="case">Corsair 250D</li>
             <li class="psu">Corsair 750W 80+ Platinum</li>
           </ul>
@@ -180,12 +180,12 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <ul>
-            <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
-            <li class="cooler">Arctic Freezer 11 LP</li>
-            <li class="motherboard">Asus H81i-PLUS</li>
-            <li class="memory">Corsair Vengeance LP 16GB DDR4</li>
-            <li class="storage">Samsung 840 EVO 250GB</li>
             <li class="gpu">EVGA GTX 960 2GB SSC ACX 2.0+</li>
+            <li class="cpu">Intel Core i5-4690 @3.7GHz</li>
+            <li class="memory">Corsair Vengeance LP 16GB DDR4</li>
+            <li class="motherboard">Asus H81i-PLUS</li>
+            <li class="storage">Samsung 840 EVO 250GB</li>
+            <li class="cooler">Arctic Freezer 11 LP</li>
             <li class="case">Fractal Design Node 304</li>
             <li class="psu">Corsair VS 550W 80+</li>
           </ul>
@@ -232,12 +232,12 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <ul>
-            <li class="cpu">Intel Core i7-980X @3.5GHz</li>
-            <li class="cooler">Corsair H70</li>
-            <li class="motherboard">Asus Rampage III Extreme</li>
-            <li class="memory">Corsair Dominator-GT 12GB DDR3</li>
-            <li class="storage">OCZ Revodrive 240GB PCIe</li>
             <li class="gpu">EVGA GTX 480 SC (x2 SLI)</li>
+            <li class="cpu">Intel Core i7-980X @3.5GHz</li>
+            <li class="memory">Corsair Dominator-GT 12GB DDR3</li>
+            <li class="motherboard">Asus Rampage III Extreme</li>
+            <li class="storage">OCZ Revodrive 240GB PCIe</li>
+            <li class="cooler">Corsair H70</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">Corsair 1000W Gold</li>
           </ul>
@@ -263,12 +263,12 @@ featured_image: /images/demo/demo-portrait.jpg
           </div>
           <hr>
           <ul>
-            <li class="cpu">Intel Core2 Quad Q6600 @3.0GHz</li>
-            <li class="cooler">Tuniq Tower 120</li>
-            <li class="motherboard">Asus P5N32-SLi SE Deluxe</li>
-            <li class="memory">Corsair Dominator 4GB DDR2</li>
-            <li class="storage">Samsung Spinmaster 320GB</li>
             <li class="gpu">Asus EN8800GTX (x2 SLI)</li>
+            <li class="cpu">Intel Core2 Quad Q6600 @3.0GHz</li>
+            <li class="memory">Corsair Dominator 4GB DDR2</li>
+            <li class="motherboard">Asus P5N32-SLi SE Deluxe</li>
+            <li class="storage">Samsung Spinmaster 320GB</li>
+            <li class="cooler">Tuniq Tower 120</li>
             <li class="case">Lian-Li PC-P80B Full Tower</li>
             <li class="psu">OCZ 900W MOD XSTREAM</li>
           </ul>
@@ -295,9 +295,9 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <h5>Sony VAIO a317M</h5>
           <ul>
+            <li class="gpu">ATI Radeon X600</li>
             <li class="cpu">Intel Pentium M 740 Centrino @1.73Ghz</li>
             <li class="memory">512MB RAM</li>
-            <li class="gpu">ATI Radeon X600</li>
           </ul>
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OV.jpg">
@@ -322,9 +322,9 @@ featured_image: /images/demo/demo-portrait.jpg
           <hr>
           <h5>Dell Dimension 8200</h5>
           <ul>
+            <li class="gpu">nVidia GeForce3 64MB</li>
             <li class="cpu">Intel Pentium 4</li>
             <li class="memory">512MB RAM</li>
-            <li class="gpu">nVidia GeForce3 64MB</li>
           </ul>
           <div class="gallery" data-columns="3">
             <img src="/images/pages/tech/OD.jpg">
