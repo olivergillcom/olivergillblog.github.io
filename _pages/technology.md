@@ -53,32 +53,6 @@ featured_image: /images/demo/demo-portrait.jpg
 
 </head>
 <body>
-  <!--  
-  <div class="flex justify-between items-center">
-  <a class="btn btn--subtle" data-toggle="collapse" data-target="#gaming-pc">Muh PC</a>
-    <button class="btn btn-primary" type="button" data-toggle="collapse" data-target="#gaming-pc" aria-expanded="false" aria-controls="collapseExample">Mee PeeCee</button>
-  
-    <button type="button" class="btn btn-info" data-toggle="collapse" data-target="#gaming-pc">Buttan</button>
-
-    <a href="#" onclick="ToggleVisibility('gaming-pc'); return false;" class="btn btn--subtle gaming-pc-button">
-      <div class="filter__img filter__img--green">
-        <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-      </div>
-    </a>
-    <a href="#0" class="btn btn--subtle">
-      <div class="filter__img filter__img--purple">
-        <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-      </div>
-    </a>
-    <a href="#0" class="btn btn--subtle">
-      <div class="filter__img filter__img--red">
-        <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
-      </div>
-    </a>
- 
-  </div>
-  --> 
-
   <section class="cd-timeline js-cd-timeline" style="padding-left: 0px;padding-right: 0px;">
     <div class="container max-width-lg cd-timeline__container">
         <div class="cd-timeline__block" id="gaming-pc">
@@ -86,7 +60,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
           </div> <!-- cd-timeline__img -->
           <div class="cd-timeline__content text-component">
-            <h2>OLI LAKKAMATU (TBC)</h2>
+            <h2>OLI SENIIT (TBC)</h2>
             <div class="flex justify-between items-center">
               <span class="cd-timeline__date">In Development</span>
             </div>
@@ -108,7 +82,7 @@ featured_image: /images/demo/demo-portrait.jpg
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
             <div class="contentInfo">
-              <p>Lakkamatu is the Estonian word for endless</p>
+              <p>Seniit is the Estonian word for zenith, or time at which something is most powerful.</p>
               <p>Something that will last at least five years and be capable of high end VR for three.</p>
             </div> 
           </div> <!-- cd-timeline__content -->
@@ -380,107 +354,6 @@ Google Pixel 4 XL
 -->
 
 
-<div class="cd-timeline__block" id="phone">
-  <div class="cd-timeline__img cd-timeline__img--purple">
-    <img src="/images/pages/tech/phone.svg" alt="Picture">
-  </div> <!-- cd-timeline__img -->
-  <div class="cd-timeline__content text-component">
-    <h2>PHONE EXAMPLE</h2>
-    <div class="flex justify-between items-center">
-      <span class="cd-timeline__date">Summer 2002</span>
-    </div>
-    <hr>
-    <div class="gallery" data-columns="3">
-      <img src="/images/pages/tech/OD.jpg">
-    </div>
-    <button type="button" class="collapsible">More Info</button>
-    <div class="contentInfo">
-      <p class="color-contrast-medium">The first Windows XP computer in the house, and my first PC bought specifically for me.</p>
-    </div> 
-  </div> <!-- cd-timeline__content -->
-</div> <!-- cd-timeline__block -->
-
-
-
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--red">
-          <img src="/js/timeline/img/cd-icon-movie.svg" alt="Movie">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Title of section 2</h2>
-          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde?</p>
-          
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Jan 18</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--green">
-          <img src="/js/timeline/img/cd-icon-picture.svg" alt="Picture">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Title of section 3</h2>
-          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Excepturi, obcaecati, quisquam id molestias eaque asperiores voluptatibus cupiditate error assumenda delectus odit similique earum voluptatem doloremque dolorem ipsam quae rerum quis. Odit, itaque, deserunt corporis vero ipsum nisi eius odio natus ullam provident pariatur temporibus quia eos repellat consequuntur perferendis enim amet quae quasi repudiandae sed quod veniam dolore possimus rem voluptatum eveniet eligendi quis fugiat aliquam sunt similique aut adipisci.</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Jan 24</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--yellow">
-          <img src="/js/timeline/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Title of section 4</h2>
-          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum aut hic quasi placeat iure tempora laudantium ipsa ad debitis unde? Iste voluptatibus minus veritatis qui ut.</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Feb 14</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--yellow">
-          <img src="/js/timeline/img/cd-icon-location.svg" alt="Location">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Title of section 5</h2>
-          <p class="color-contrast-medium">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iusto, optio, dolorum provident rerum.</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Feb 18</span>
-            <a href="#0" class="btn btn--subtle">Read more</a>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
-
-      <div class="cd-timeline__block">
-        <div class="cd-timeline__img cd-timeline__img--red">
-          <img src="/js/timeline/img/cd-icon-movie.svg" alt="Movie">
-        </div> <!-- cd-timeline__img -->
-
-        <div class="cd-timeline__content text-component">
-          <h2>Final Section</h2>
-          <p class="color-contrast-medium">This is the content of the last section</p>
-
-          <div class="flex justify-between items-center">
-            <span class="cd-timeline__date">Feb 26</span>
-          </div>
-        </div> <!-- cd-timeline__content -->
-      </div> <!-- cd-timeline__block -->
     </div>
   </section> <!-- cd-timeline -->
   <script src="/js/timeline/js/main.js"></script>
