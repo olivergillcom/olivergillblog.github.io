@@ -1,7 +1,7 @@
 ---
-title: Technology Timeline
+title: PC - Tech History
 subtitle: What I got, and when I got it
-description: A Personal Site.
+description: A look back on my main rigs
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
