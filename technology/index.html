@@ -1,0 +1,47 @@
+---
+layout: default
+title: Technology
+subtitle: What I have, and how I got there.
+description: People ask me for advice all the time, here are some general ideas/tips
+featured_image: /images/pages/stream.jpg
+---
+
+<section class="intro">
+
+	<div class="wrap">
+
+		<h1>{{ page.title }}</h1>
+		<p>{{ page.subtitle }}</p>
+
+	</div>
+
+</section>
+
+<section class="portfolio">
+
+	<div class="wrap">
+
+		{% for tech in site.tech reversed %}
+
+		<div class="portfolio-item">
+
+			<a class="portfolio-item__link" href="{{ tech.url | relative_url }}">
+
+				<div class="portfolio-item__image" style="background-image: url({{ tech.featured_image | relative_url }});"></div>
+
+				<div class="portfolio-item__content">
+					<div class="portfolio-item__info">
+						<h2 class="portfolio-item__title">{{ tech.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ tech.subtitle }}</p>
+					</div>
+				</div>
+
+			</a>
+
+		</div>
+
+		{% endfor %}
+
+	</div>
+
+</section>
