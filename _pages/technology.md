@@ -86,7 +86,7 @@ featured_image: /images/demo/demo-portrait.jpg
             <img src="/images/pages/tech/pc-case-white-square.svg" alt="Picture">
           </div> <!-- cd-timeline__img -->
           <div class="cd-timeline__content text-component">
-            <h2>OLI TORN (TBC)</h2>
+            <h2>OLI IGAVIK (TBC)</h2>
             <div class="flex justify-between items-center">
               <span class="cd-timeline__date">In Development</span>
             </div>
@@ -101,15 +101,15 @@ featured_image: /images/demo/demo-portrait.jpg
               <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
               <li class="case">Gamemax Abyss Infinity</li>
               <br>
-              <li class="gpu">TBD - an EVGA RTX 3090 Hybrid</li>
-              <li class="cpu">TBD - an AMD R59XX</li>
-              <li class="motherboard">TBD - Asus</li>
-              <li class="cooler">TBD</li>
-              <li class="psu">TBD - Corsair 850W+</li>
+              <li class="gpu">EVGA RTX 3090 FTW3 Hybrid</li>
+              <li class="cpu">AMD Ryzen 5950X</li>
+              <li class="motherboard">Asus Crosshair VIII Dark Hero</li>
+              <li class="cooler">Corsair H115i Elite</li>
+              <li class="psu">Corsair 1200W</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
             <div class="contentInfo">
-              <p>Torn is the Estonian word for Tower</p>
+              <p>Igavik is the Estonian word for Eternity</p>
               <p>Something that will last at least five years and be capable of high end VR for three.</p>
             </div> 
           </div> <!-- cd-timeline__content -->
