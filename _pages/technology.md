@@ -104,7 +104,7 @@ featured_image: /images/demo/demo-portrait.jpg
               <li class="gpu">EVGA RTX 3090 FTW3 Hybrid</li>
               <li class="cpu">AMD Ryzen 5950X</li>
               <li class="motherboard">Asus Crosshair VIII Dark Hero</li>
-              <li class="cooler">Corsair H115i Elite</li>
+              <li class="cooler">Corsair H115i Elite Capellix</li>
               <li class="psu">Corsair 1200W</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
