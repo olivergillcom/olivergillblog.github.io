@@ -96,15 +96,14 @@ featured_image: /images/demo/demo-portrait.jpg
             </h5>
            <br>
             <ul class="computer">
-              <li class="memory">G.Skill Trident Z Neo 32GB DDR4-3600 CL14</li>
-              <li class="storage">Samsung 980 NVMe 1TB PCIe4.0</li>
-              <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
-              <li class="case">Gamemax Abyss Infinity</li>
-              <br>
               <li class="gpu">EVGA RTX 3090 FTW3 Hybrid</li>
               <li class="cpu">AMD Ryzen 5950X</li>
+              <li class="memory">G.Skill Trident Z Neo 32GB DDR4-3600 CL14</li>
               <li class="motherboard">Asus Crosshair VIII Dark Hero</li>
+              <li class="storage">Samsung 980 NVMe 1TB PCIe4.0</li>
+              <li class="storage">Sabrent Rocket 4.0 NVMe 1TB PCIe4.0</li>
               <li class="cooler">Corsair H115i Elite Capellix</li>
+              <li class="case">Gamemax Abyss Infinity</li>
               <li class="psu">Corsair 1200W</li>
             </ul>
             <button type="button" class="collapsible color-contrast-medium">More Info</button>
