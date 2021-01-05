@@ -15,13 +15,11 @@ Rather than add to the noise, I thought a simpler approach would be to outline w
 
 
 #### My digital landscape (What I have)
-Graphic? Including some shortcuts - let me know if you want me to cover another area
+Note to self: Multi-part graphic? Including shortcuts & "let me know if you want me to cover another area"
 
-[PC History](/technology/history-pc/) 
-
-add more opinion
-Mobile & Tablet History - add more opinion
-Smart health History - create + add more opinion
+[PC History](/technology/history-pc.md) - needs more opinion
+[Mobile & Tablet History]() - add more opinion
+[Smart health History]() - create + add more opinion
 
 
 
@@ -35,6 +33,32 @@ Smart health History - create + add more opinion
 
 
 #### Overarching Theories, Concepts, and Opinions
+
+| Part        | Title           |
+| ------------- |-------------|
+| 1 | Abstraction and Frameworks |
+| 2 | Open Source Software |
+| 3 | Agile |
+| 4 | Self-Host vs Cloud |
+| 5 | Ecosystems |
+| 6 | Interoperability |
+| 7 | Value and Prioritisation |
+| 8 | Know your limits|
+
+
+| Title |
+|-------------|
+| Abstraction and Frameworks |
+| Open Source Software |
+| Agile |
+| Self-Host vs Cloud |
+| Ecosystems |
+| Interoperability |
+| Value and Prioritisation |
+| Know your limits|
+
+
+
 ##### Abstraction and Frameworks
 At first these two words can fill you with a sinking feeling, but rather than adding complexity they actually make everything a lot simpler. At it's absolute highest level think of abstraction as a human translator; you say or want one thing, and the translator will understand it and convert that to something else. It is not up to you to do the translation, you have in effect offloaded that responsibility to the (hopefully well paid) worker to take care of it. You can think of frameworks as published rulebooks that you can use, using the same analogy we could call dictionaries a framework - one that the translator will use to adapt what you want to say in one language, into the end result you are after. 
 
