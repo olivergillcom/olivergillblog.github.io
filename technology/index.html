@@ -5,7 +5,6 @@ subtitle: What I have, and how I got there.
 description: People ask me for advice all the time, here are some general ideas/tips
 featured_image: /images/pages/stream.jpg
 ---
-# Test
 <section class="intro">
 	<div class="wrap">
 
@@ -15,22 +14,18 @@ featured_image: /images/pages/stream.jpg
 	</div>
 
 </section>
-<section class="default">
-	## My Technology Landscape
 
-	## The decisions I made to get here 
-</section>
 <section class="portfolio">
 
 	<div class="wrap">
 
-		{% for tech in site.tech reversed %}
+		{% for technology in site.technology reversed %}
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ tech.url | relative_url }}">
+			<a class="portfolio-item__link" href="{{ technology.url | relative_url }}">
 
-				<div class="portfolio-item__image" style="background-image: url({{ tech.featured_image | relative_url }});"></div>
+				<div class="portfolio-item__image" style="background-image: url({{ technology.featured_image | relative_url }});"></div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">

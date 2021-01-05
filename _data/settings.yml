@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Latest'
       url: '/'
     - title: 'Technology'
-      url: '/technology/'
+      url: '/technology-home'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Photos'
@@ -29,7 +29,7 @@ grid_settings:
 contact_settings:
   form_action: 'https://formspree.io/mvowejpd'
   confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
+  email_subject: 'OG.com Contact form submission'
   send_button_text: 'Send Message'
 
 social_settings:
