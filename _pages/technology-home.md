@@ -61,7 +61,7 @@ One of the most frequently
 
 ##### Interoperability, and playing well with others
 
-##### What is valuable to you?
+##### "Value" and Priority
 people underestimate how much mundane actions affect you
 
 ##### Understand your limitations
