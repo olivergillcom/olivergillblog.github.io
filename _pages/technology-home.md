@@ -34,20 +34,11 @@ Note to self: Multi-part graphic? Including shortcuts & "let me know if you want
 
 #### Overarching Theories, Concepts, and Opinions
 
-| Part        | Title           |
-| ------------- |-------------|
-| 1 | Abstraction and Frameworks |
-| 2 | Open Source Software |
-| 3 | Agile |
-| 4 | Self-Host vs Cloud |
-| 5 | Ecosystems |
-| 6 | Interoperability |
-| 7 | Value and Prioritisation |
-| 8 | Know your limits|
+Once you have a fundamental bedrock of understanding its pretty easy to opinionate on new things pretty quickly, sussing out what needs to be tested, questioned or verified.
 
 
-| Title |
-|-------------|
+| Contents |
+|----------|
 | Abstraction and Frameworks |
 | Open Source Software |
 | Agile |
