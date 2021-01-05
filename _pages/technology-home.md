@@ -8,16 +8,20 @@ featured_image: /images/demo/demo-portrait.jpg
 ## In Progress
 
 
-### Personal Technology Advisory
+### Technology Advice
 People regularly ask me for advice or my opinions on consumer or enterprise technology. I feel technology reviews have, for the most part, been neutered by the same capitalistic forces that effect more traditional media outlets - often writing for attention rather than focusing on what really matters to end users. On the flip side, the few niche players that remain are often so pigeon-holed their advice should only be taken at face value with a spoonful of contextual awareness.
 
 Rather than add to the noise, I thought a simpler approach would be to outline what I own/use myself (the ultimate sign of advocacy) and explain why I chose it, so readers can not only see my opinions but understand where they are coming from. Hopefully this will enable readers to feel empowered to either make more informed decisions themselves moving forward or at the very least question my biases, and truly test my stances - a feedback loop that we could all use more of.
 
 
 #### My digital landscape (What I have)
-Graphic? Including some shortcuts
+Graphic? Including some shortcuts - let me know if you want me to cover another area
 
-PC History
+(!PC History)[] - add more opinion
+Mobile & Tablet History - add more opinion
+Smart health History - create + add more opinion
+
+
 
 
 
@@ -45,7 +49,7 @@ Often used by corporates as a legal get-out-of-jail-free card
 ##### User Centricity
 A user doesn't have to be human, if you aren't designing things with interactions in mind you're setting yourself up for infinite headaches later
 
-##### Self-host vs Cloud
+##### Self-Host vs Cloud
 
 ##### Ecosystems
 Windows vs Mac
@@ -53,5 +57,8 @@ iPhone vs Android
 
 One of the most frequently 
 
-##### Interoperability
-##### Flexibility
+##### Interoperability, and playing well with others
+
+##### What is valuable to you?
+people underestimate how much mundane actions affect you
+
