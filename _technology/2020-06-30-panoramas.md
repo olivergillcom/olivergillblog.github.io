@@ -1,7 +1,7 @@
 ---
 title: 'Panoramas'
 subtitle: 'a broader perspective'
-date: 2018-06-30 00:00:00
+date: 2020-06-30 00:00:00
 featured_image: '/images/photos/panoramas/cover.jpg'
 ---
 
