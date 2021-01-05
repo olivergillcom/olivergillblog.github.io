@@ -14,18 +14,9 @@ Rather than add to the noise, I thought a simpler approach would be to outline w
 #### My digital landscape
 `Note to self: Multi-part graphic? Including shortcuts & "let me know if you want me to cover another area"`
 
-* [PC History](/technology/history-pc.md) - needs more opinion
-
-* [Mobile & Tablet History]() - add more opinion
-
-* [Smart health History]() - create + add more opinion
-
-
-
-
-
-
-
+*[PC History](/technology/history-pc.md) - needs more opinion
+*[Mobile & Tablet History]() - add more opinion
+*[Smart health History]() - create + add more opinion
 
 
 
@@ -42,8 +33,8 @@ Once you have a fundamental bedrock of understanding its pretty easy to opiniona
 | Open Source Software |
 | Agile |
 | Self-Host vs Cloud |
-| Ecosystems |
-| Interoperability |
+| [Ecosystems](#ecosystems) |
+| [Interoperability]((#heading-ecosystems)) |
 | Value and Prioritisation |
 | Know your limits|
 
