@@ -12,8 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Technology'
-      url: '/technology-home'
+#    - title: 'Technology'
+#      url: '/technology-home'
     - title: 'Projects'
       url: '/projects/'
     - title: 'Photos'
