@@ -34,7 +34,7 @@ Once you have a fundamental bedrock of understanding its pretty easy to opiniona
 | Agile |
 | Self-Host vs Cloud |
 | [Ecosystems](#ecosystems) |
-| [Interoperability]((#heading-ecosystems)) |
+| [Interoperability](#heading-ecosystems)) |
 | Value and Prioritisation |
 | Know your limits|
 
