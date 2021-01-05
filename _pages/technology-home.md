@@ -12,7 +12,7 @@ Rather than add to the noise, I thought a simpler approach would be to outline w
 
 
 #### My digital landscape
-`Note to self: Multi-part graphic? Including shortcuts & "let me know if you want me to cover another area"`
+Note to self: Multi-part graphic? Including shortcuts & "let me know if you want me to cover another area"
 
 * [PC History](/technology/history-pc.md) - needs more opinion
 * [Mobile & Tablet History]() - add more opinion
