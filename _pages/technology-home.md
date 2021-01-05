@@ -17,7 +17,7 @@ Rather than add to the noise, I thought a simpler approach would be to outline w
 #### My digital landscape (What I have)
 Graphic? Including some shortcuts - let me know if you want me to cover another area
 
-(!PC History)[] - add more opinion
+(PC History)[/technology/history-pc/] - add more opinion
 Mobile & Tablet History - add more opinion
 Smart health History - create + add more opinion
 
@@ -62,3 +62,6 @@ One of the most frequently
 ##### What is valuable to you?
 people underestimate how much mundane actions affect you
 
+##### Understand your limitations
+"I don't know" is a valid answer
+"I'm not sure but my guess would be" is also as valid
