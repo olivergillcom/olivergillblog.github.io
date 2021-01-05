@@ -34,7 +34,7 @@ Once you have a fundamental bedrock of understanding its pretty easy to opiniona
 | Agile |
 | Self-Host vs Cloud |
 | [Ecosystems](#ecosystems) |
-| [Interoperability](#interoperability)) |
+| [Interoperability](#interoperability-and-playing-well-with-others) |
 | Value and Prioritisation |
 | Know your limits|
 
@@ -64,7 +64,7 @@ iPhone vs Android
 
 One of the most frequently 
 
-##### Interoperability, and playing well with others
+##### Interoperability and playing well with others
 
 ##### "Value" and Priority
 people underestimate how much mundane actions affect you
