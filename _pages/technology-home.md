@@ -15,7 +15,9 @@ Rather than add to the noise, I thought a simpler approach would be to outline w
 
 
 #### My digital landscape (What I have)
-Including some shortcuts
+Graphic? Including some shortcuts
+
+PC History
 
 
 
@@ -33,8 +35,15 @@ At first these two words can fill you with a sinking feeling, but rather than ad
 
 
 When one of my computer science lecturers began to teach us the basics of abstraction, through functional mathematics, half of the students mentally switched off.
+
 ##### Open Source Software
 Not always a silver bullet, open source is only "good" if it is actively maintained
+
+##### Agile Design & "Fail" Fast
+Often used by corporates as a legal get-out-of-jail-free card
+
+##### User Centricity
+A user doesn't have to be human, if you aren't designing things with interactions in mind you're setting yourself up for infinite headaches later
 
 ##### Self-host vs Cloud
 
