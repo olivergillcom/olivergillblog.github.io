@@ -14,7 +14,7 @@ Rather than add to the noise, I thought a simpler approach would be to outline w
 #### My digital landscape
 Note to self: Multi-part graphic? Including shortcuts & "let me know if you want me to cover another area"
 
-* [PC History](/technology/tech-history-pc/) - needs more opinion
+* [PC History](/tech-history-pc/) - needs more opinion
 * [Mobile & Tablet History]() - add more opinion
 * [Smart health History]() - create + add more opinion
 
