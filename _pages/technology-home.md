@@ -43,6 +43,13 @@ Once you have a fundamental bedrock of understanding its pretty easy to opiniona
 ##### Abstraction and Frameworks
 At first these two words can fill you with a sinking feeling, but rather than adding complexity they actually make everything a lot simpler. At it's absolute highest level think of abstraction as a human translator; you say or want one thing, and the translator will understand it and convert that to something else. It is not up to you to do the translation, you have in effect offloaded that responsibility to the (hopefully well paid) worker to take care of it. You can think of frameworks as published rulebooks that you can use, using the same analogy we could call dictionaries a framework - one that the translator will use to adapt what you want to say in one language, into the end result you are after. 
 
+##### Tools
+Realtimeboard
+Trello
+Jira
+VS Code
+Docker
+
 
 
 When one of my computer science lecturers began to teach us the basics of abstraction, through functional mathematics, half of the students mentally switched off.
